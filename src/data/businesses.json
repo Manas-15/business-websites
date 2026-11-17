@@ -2010,6 +2010,30 @@
         {
           "src": "/clients/starlit-civilians/gallery/lotus-mural.jpg",
           "alt": "A painted lotus mural on the dining room wall"
+        },
+        {
+          "src": "/clients/starlit-civilians/interior-civilians-sign.webp",
+          "alt": "The dining room with the lit Civilians sign and floral armchairs"
+        },
+        {
+          "src": "/clients/starlit-civilians/hero-signage.webp",
+          "alt": "The illuminated Starlit Civilians sign at the entrance"
+        },
+        {
+          "src": "/clients/starlit-civilians/dishes/crispy-korean-chicken.webp",
+          "alt": "Crispy Korean chicken with sesame and spring onion"
+        },
+        {
+          "src": "/clients/starlit-civilians/dishes/death-chicken-wings.webp",
+          "alt": "Death chicken wings in a fiery glaze"
+        },
+        {
+          "src": "/clients/starlit-civilians/dishes/paneer-tikka-butter-masala.webp",
+          "alt": "Paneer curries with butter naan"
+        },
+        {
+          "src": "/clients/starlit-civilians/dishes/chicken-mutka-dum-biryani.jpg",
+          "alt": "Chicken mutka dum biryani in a clay pot"
         }
       ],
       "testimonials": [
@@ -2341,6 +2365,162 @@
         {
           "src": "/clients/blanco-kitchen-terrace/gallery/paneer-lollipop.webp",
           "alt": "Paneer lollipops in a glossy red glaze"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/blue-doors.webp",
+          "alt": "Blue Santorini-style doors framed by pink bougainvillea"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/hero-bar.webp",
+          "alt": "The bar counter with the Blanco logo under a ceiling of greenery"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/dishes/special-pizza.webp",
+          "alt": "Blanco special pizza loaded with paneer, peppers and olives"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/dishes/drums-of-heaven.webp",
+          "alt": "Drums of heaven with a fresh lime soda"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/dishes/lasagna.webp",
+          "alt": "Baked lasagna with garlic bread"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/dishes/sizzling-brownie.webp",
+          "alt": "Sizzling brownie with ice cream and chocolate sauce"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/a-table-spread-of-biryani-curries-and-raita.webp",
+          "alt": "A table spread of biryani, curries and raita"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/biryani-served-with-raita.webp",
+          "alt": "Biryani served with raita"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/reshmi-chicken-kabab-with-mint-chutney.webp",
+          "alt": "Reshmi chicken kabab with mint chutney"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/chicken-tikka-with-onion-rings-and-mint-chutney.webp",
+          "alt": "Chicken tikka with onion rings and mint chutney"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/a-starter-platter-of-kebabs-and-glazed-chicken.webp",
+          "alt": "A starter platter of kebabs and glazed chicken"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/glazed-chilli-chicken-with-sesame.webp",
+          "alt": "Glazed chilli chicken with sesame"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/grilled-chicken-bites-with-mint-dip-and-onion-ri.webp",
+          "alt": "Grilled chicken bites with mint dip and onion rings"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/crispy-cheese-balls-in-a-rich-sauce-topped-with-.webp",
+          "alt": "Crispy cheese balls in a rich sauce, topped with crisps"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/cheesy-toasts-topped-with-chilli-and-onion.webp",
+          "alt": "Cheesy toasts topped with chilli and onion"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/a-thin-crust-pizza-on-a-wooden-board.webp",
+          "alt": "A thin-crust pizza on a wooden board"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/roasted-vegetable-salad-with-cherry-tomatoes-and.webp",
+          "alt": "Roasted vegetable salad with cherry tomatoes and peppers"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/crumb-fried-skewers-with-a-dipping-sauce.webp",
+          "alt": "Crumb-fried skewers with a dipping sauce"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/crumb-fried-fingers-with-nachos-and-dip.webp",
+          "alt": "Crumb-fried fingers with nachos and dip"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/crispy-golden-skewers.webp",
+          "alt": "Crispy golden skewers"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/crispy-chilli-potato-strips-with-slaw.webp",
+          "alt": "Crispy chilli potato strips with slaw"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/chilli-chicken-bites.webp",
+          "alt": "Chilli chicken bites"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/grilled-sandwich-with-nachos.webp",
+          "alt": "Grilled sandwich with nachos"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/club-sandwich-with-nachos-and-dip.webp",
+          "alt": "Club sandwich with nachos and dip"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/noodles-for-the-table.webp",
+          "alt": "Noodles for the table"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/noodles-and-fried-rice.webp",
+          "alt": "Noodles and fried rice"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/fried-rice-with-a-spicy-gravy.webp",
+          "alt": "Fried rice with a spicy gravy"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/curry-with-soft-rumali-roti.webp",
+          "alt": "Curry with soft rumali roti"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/pulao-roti-and-curries.webp",
+          "alt": "Pulao, roti and curries"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/paneer-curry-dal-and-rice.webp",
+          "alt": "Paneer curry, dal and rice"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/biryani-with-curries-and-raita.webp",
+          "alt": "Biryani with curries and raita"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/sizzling-starters-on-the-table.webp",
+          "alt": "Sizzling starters on the table"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/dinner-with-dal-chilli-chicken-and-a-red-velvet-.webp",
+          "alt": "Dinner with dal, chilli chicken and a red velvet pastry"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/a-layered-red-and-orange-mocktail.webp",
+          "alt": "A layered red and orange mocktail"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/a-bright-green-mocktail.webp",
+          "alt": "A bright green mocktail"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/a-red-berry-mojito-with-mint.webp",
+          "alt": "A red berry mojito with mint"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/two-chilled-drinks-on-a-blanco-coaster.webp",
+          "alt": "Two chilled drinks on a Blanco coaster"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/a-strawberry-shake-topped-with-fruit.webp",
+          "alt": "A strawberry shake topped with fruit"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/cold-coffee-and-a-lime-cooler.webp",
+          "alt": "Cold coffee and a lime cooler"
         }
       ],
       "testimonials": [

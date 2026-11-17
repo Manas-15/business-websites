@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { monogramFaviconDataUri } from "@/lib/monogram";
 import { getSiteUrl } from "@/lib/site-url";
 import type { ClientConfig } from "@/types/client-config";
 
@@ -18,7 +19,8 @@ export function buildSiteMetadata(config: ClientConfig, options: { index?: boole
     description: seo.description,
     keywords: seo.keywords,
     alternates: { canonical: "/" },
-    icons: { icon: business.favicon ?? DEFAULT_FAVICON },
+    // Each business gets its own tab icon: its favicon file, or its initials in the brand colour.
+    icons: { icon: business.favicon ?? monogramFaviconDataUri(config) },
     robots: options.index === false ? { index: false, follow: false } : undefined,
     openGraph: {
       type: "website",

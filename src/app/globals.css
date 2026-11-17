@@ -90,3 +90,8 @@
     }
   }
 }
+
+/* Stop the page behind an open gallery popup from scrolling. */
+html:has(dialog[open]) {
+  overflow: hidden;
+}

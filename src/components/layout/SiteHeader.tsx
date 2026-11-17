@@ -4,21 +4,12 @@ import { Button } from "@/components/common/Button";
 import { Container } from "@/components/common/Container";
 import { MobileNav } from "@/components/navigation/MobileNav";
 import { NavLinks } from "@/components/navigation/NavLinks";
+import { monogram } from "@/lib/monogram";
 import type { BusinessInfo, NavItem } from "@/types/client-config";
 
 interface SiteHeaderProps {
   business: BusinessInfo;
   navigation: NavItem[];
-}
-
-/** First letters of up to two words, for businesses without a logo file yet. */
-function monogram(name: string): string {
-  return name
-    .split(/\s+/)
-    .filter((word) => /^[a-z0-9]/i.test(word))
-    .slice(0, 2)
-    .map((word) => word.charAt(0).toUpperCase())
-    .join("");
 }
 
 export function SiteHeader({ business, navigation }: SiteHeaderProps) {
