@@ -27,7 +27,7 @@ export function SiteShell({ config, children, banner }: SiteShellProps) {
   const navigation = getNavigation(config);
 
   return (
-    <div style={buildThemeStyle(config.theme)} className="flex min-h-dvh flex-col bg-background font-sans text-foreground">
+    <div id="top" style={buildThemeStyle(config.theme)} className="flex min-h-dvh flex-col bg-background font-sans text-foreground">
       <JsonLd data={buildLocalBusinessJsonLd(config, getSiteUrl())} />
       <a
         href="#main"

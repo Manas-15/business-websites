@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 import { Button } from "@/components/common/Button";
 import { Container } from "@/components/common/Container";
 import { MobileNav } from "@/components/navigation/MobileNav";
@@ -16,7 +15,8 @@ export function SiteHeader({ business, navigation }: SiteHeaderProps) {
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/85">
       <Container className="flex h-18 items-center justify-between gap-6">
-        <Link href="/" className="flex items-center gap-3 rounded-[var(--radius)] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring">
+        {/* Back to the top of this page, so demo links (/s/<slug>) never jump to another business. */}
+        <a href="#top" aria-label={`${business.name}, back to top`} className="flex items-center gap-3 rounded-[var(--radius)] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring">
           {business.logo ? (
             <Image src={business.logo} alt="" width={40} height={40} className="size-10 object-contain" priority />
           ) : (
@@ -28,7 +28,7 @@ export function SiteHeader({ business, navigation }: SiteHeaderProps) {
             </span>
           )}
           <span className="font-heading text-lg leading-tight font-semibold">{business.name}</span>
-        </Link>
+        </a>
 
         <nav aria-label="Primary" className="hidden md:block">
           <NavLinks items={navigation} />
