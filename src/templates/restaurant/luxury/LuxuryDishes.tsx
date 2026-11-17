@@ -31,7 +31,7 @@ export function LuxuryDishes({ dishes }: LuxuryDishesProps) {
               />
             </div>
             <h3 className="mt-5 font-heading text-xl">{dish.name}</h3>
-            <p className="mt-1 text-sm font-semibold text-primary">{dish.price}</p>
+            {dish.price ? <p className="mt-1 text-sm font-semibold text-primary">{dish.price}</p> : null}
             <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{dish.description}</p>
           </li>
         ))}

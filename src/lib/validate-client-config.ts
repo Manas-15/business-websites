@@ -199,7 +199,7 @@ function validateRestaurantContent(reader: FieldReader, input: unknown, path: st
       return {
         name: reader.text(dish, "name", iPath),
         description: reader.text(dish, "description", iPath),
-        price: reader.text(dish, "price", iPath),
+        price: reader.optionalText(dish, "price", iPath),
         vegetarian: reader.optionalBoolean(dish, "vegetarian", iPath),
         featured,
         image,

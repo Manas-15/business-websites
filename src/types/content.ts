@@ -1,7 +1,8 @@
 export interface MenuItem {
   name: string;
   description: string;
-  price: string;
+  /** Optional: leave out when the price is not known yet, and none is shown. */
+  price?: string;
   vegetarian?: boolean;
   /** Shown in the featured dishes section. Requires `image`. */
   featured?: boolean;

@@ -100,7 +100,7 @@ A complete example is in [`examples/restaurant-business.example.json`](examples/
           {
             "name": "Odia Veg Thali",
             "description": "Dalma, santula, besara…",
-            "price": "₹349",
+            "price": "₹349",                   // optional; leave out if unknown and no price is shown
             "vegetarian": true,                 // optional
             "featured": true,                   // optional; featured dishes need an image
             "image": "https://...",             // optional

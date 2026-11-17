@@ -2033,5 +2033,336 @@
         }
       ]
     }
+  },
+  {
+    "slug": "blanco-kitchen-terrace",
+    "businessType": "restaurant",
+    "templateVariant": "luxury",
+    "business": {
+      "name": "Blanco Kitchen & Terrace",
+      "tagline": "A Santorini-inspired rooftop in the heart of Saheed Nagar",
+      "description": "Multi-cuisine dining under white arches and blue doors: cheesy pizzas, baked pastas, Oriental mains and mocktails, with live music and a terrace that stays open till 1 AM.",
+      "heroImage": "/clients/blanco-kitchen-terrace/hero-bar.webp"
+    },
+    "theme": {
+      "primary": "#1f4f8b",
+      "secondary": "#e6eef7",
+      "background": "#fbfaf7",
+      "text": "#16213a",
+      "headingFont": "Cormorant Garamond",
+      "bodyFont": "Montserrat",
+      "radius": "sm"
+    },
+    "contact": {
+      "phone": "+91 90782 54802",
+      "email": "hello@blancokitchen.example",
+      "address": "Number 360, Vavi Grand, Rupali St, Saheed Nagar, Bhubaneswar, Odisha 751007",
+      "whatsapp": "919078254802",
+      "mapEmbedUrl": "https://www.google.com/maps?q=Blanco+Kitchen+%26+Terrace,+Vavi+Grand,+Saheed+Nagar,+Bhubaneswar&output=embed"
+    },
+    "openingHours": [
+      {
+        "day": "Every day",
+        "hours": "Open until 1:00 AM"
+      }
+    ],
+    "announcement": {
+      "text": "Planning a celebration? Ask about our private dining room.",
+      "href": "#reservations"
+    },
+    "seo": {
+      "title": "Blanco Kitchen & Terrace | Rooftop Restaurant in Saheed Nagar, Bhubaneswar",
+      "description": "Santorini-inspired rooftop restaurant in Saheed Nagar, Bhubaneswar. Pizzas, pasta, Oriental mains, mocktails and live music, open till 1 AM. Rated 4.3 from 1,100+ Google reviews.",
+      "keywords": [
+        "rooftop restaurant Bhubaneswar",
+        "Saheed Nagar restaurant",
+        "Santorini cafe Bhubaneswar",
+        "pizza and pasta Bhubaneswar",
+        "Blanco Kitchen and Terrace"
+      ],
+      "ogImage": "/clients/blanco-kitchen-terrace/hero-bar.webp"
+    },
+    "content": {
+      "heroEyebrow": "Kitchen & terrace · Saheed Nagar, Bhubaneswar",
+      "highlights": [
+        {
+          "value": "4.3 ★",
+          "label": "From 1,100+ Google reviews"
+        },
+        {
+          "value": "₹400–1,600",
+          "label": "Per person"
+        },
+        {
+          "value": "Rooftop",
+          "label": "Santorini-inspired terrace"
+        },
+        {
+          "value": "Till 1 AM",
+          "label": "Open late every night"
+        }
+      ],
+      "about": {
+        "eyebrow": "About Blanco",
+        "title": "A little of Santorini, above Saheed Nagar",
+        "paragraphs": [
+          "Blanco Kitchen & Terrace brings the white walls, blue doors and bougainvillea of the Greek islands to a rooftop in Saheed Nagar. Inside, a garden ceiling hangs over the dining hall; outside, the terrace is made for long evenings.",
+          "The menu travels just as far: cheesy pizzas and baked lasagna, Indian kebabs and biryani, Oriental mains in your choice of sauce, and a long list of mocktails and shakes. Every dish is prepared fresh when you order."
+        ],
+        "image": {
+          "src": "/clients/blanco-kitchen-terrace/blue-doors.webp",
+          "alt": "Blue Santorini-style doors framed by pink bougainvillea and rattan lamps"
+        }
+      },
+      "features": [
+        {
+          "title": "Rooftop terrace",
+          "description": "Santorini-inspired seating under the open sky, beautiful by day and lit up at night.",
+          "icon": "map"
+        },
+        {
+          "title": "Live music",
+          "description": "Guests love the live music evenings. Ask us what is on this week.",
+          "icon": "sparkles"
+        },
+        {
+          "title": "Private dining room",
+          "description": "A private room for birthdays, anniversaries and team dinners.",
+          "icon": "users"
+        },
+        {
+          "title": "Open till 1 AM",
+          "description": "Late dinners, happy-hour bites and mocktails well into the night.",
+          "icon": "clock"
+        }
+      ],
+      "menu": [
+        {
+          "id": "pizza-pasta",
+          "name": "Pizza, Pasta & Bakes",
+          "items": [
+            {
+              "name": "Blanco Special Pizza",
+              "description": "Our house pizza loaded with paneer, peppers, onion, sweet corn, olives and plenty of mozzarella.",
+              "vegetarian": true,
+              "featured": true,
+              "tag": "Guest favourite",
+              "image": "/clients/blanco-kitchen-terrace/dishes/special-pizza.webp"
+            },
+            {
+              "name": "Chicken and Vegetable Pizza",
+              "description": "Chicken and garden vegetables on a cheesy, thin base."
+            },
+            {
+              "name": "Lasagna",
+              "description": "Layered pasta baked with sauce and a golden cheese crust, served with garlic bread.",
+              "featured": true,
+              "image": "/clients/blanco-kitchen-terrace/dishes/lasagna.webp"
+            },
+            {
+              "name": "Cheese Garlic Bread",
+              "description": "Toasted garlic bread topped with melted cheese and herbs.",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "starters",
+          "name": "Starters",
+          "items": [
+            {
+              "name": "Drums of Heaven",
+              "description": "Chicken lollipops tossed in a sticky, spicy Indo-Chinese glaze. Perfect with a fresh lime soda.",
+              "featured": true,
+              "tag": "Must try",
+              "image": "/clients/blanco-kitchen-terrace/dishes/drums-of-heaven.webp"
+            },
+            {
+              "name": "Paneer Lollipop",
+              "description": "Paneer skewers in a tangy, spicy glaze.",
+              "vegetarian": true
+            },
+            {
+              "name": "Jalapeno Corn Cheese Ball",
+              "description": "Crispy cheese balls with sweet corn and jalapeno.",
+              "vegetarian": true
+            },
+            {
+              "name": "Reshmi Chicken Kabab",
+              "description": "Tender chicken in a creamy marinade, cooked in the tandoor and served with mint chutney."
+            }
+          ]
+        },
+        {
+          "id": "salads",
+          "name": "Salads",
+          "items": [
+            {
+              "name": "Chicken Salad with Grated Cheese",
+              "description": "Grilled chicken, crisp greens, peppers and cherry tomatoes under a snow of grated cheese."
+            },
+            {
+              "name": "Roasted Vegetables with Parmesan Cheese",
+              "description": "Roasted peppers, corn and cherry tomatoes finished with parmesan.",
+              "vegetarian": true
+            },
+            {
+              "name": "Bread with Salad",
+              "description": "Toasted bread with a fresh side salad.",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "indian",
+          "name": "Indian Mains",
+          "items": [
+            {
+              "name": "Chicken Biryani with Raita",
+              "description": "Fragrant chicken biryani served with cooling raita."
+            },
+            {
+              "name": "Butter Naan and Chicken Mumtaaz",
+              "description": "A rich, creamy chicken curry with soft butter naan."
+            },
+            {
+              "name": "Blanco Special Veg",
+              "description": "Our house vegetable curry.",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "oriental-mains",
+          "name": "Oriental Mains",
+          "description": "Choice of sauce: chilli, Manchurian, hot garlic, butter garlic, black pepper or Szechwan.",
+          "items": [
+            {
+              "name": "Thai Curry with Rice",
+              "description": "Veg / chicken / fish / prawn.",
+              "price": "₹359 / ₹399 / ₹469 / ₹579",
+              "tag": "Must try"
+            },
+            {
+              "name": "Mix Veg in Chilli Basil Sauce",
+              "description": "Mixed vegetables tossed with chilli and basil.",
+              "price": "₹279",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer in Choice of Sauce",
+              "description": "Paneer in the sauce of your choice.",
+              "price": "₹279",
+              "vegetarian": true
+            },
+            {
+              "name": "Cottage Cheese in BBQ Sauce",
+              "description": "Paneer in a smoky barbecue sauce.",
+              "price": "₹289",
+              "vegetarian": true
+            },
+            {
+              "name": "Mushroom in Choice of Sauce",
+              "description": "Mushrooms in the sauce of your choice.",
+              "price": "₹289",
+              "vegetarian": true
+            },
+            {
+              "name": "Chicken in Singway Sauce",
+              "description": "Chicken in our chef's special Singway sauce.",
+              "price": "₹299",
+              "tag": "Chef's special"
+            },
+            {
+              "name": "Chicken in Choice of Sauce",
+              "description": "Chicken in the sauce of your choice.",
+              "price": "₹299"
+            },
+            {
+              "name": "Chicken in Thai Basil Sauce",
+              "description": "Chicken stir-fried with Thai basil.",
+              "price": "₹319"
+            },
+            {
+              "name": "Fish in Thai Basil Sauce",
+              "description": "Fish stir-fried with Thai basil.",
+              "price": "₹319"
+            },
+            {
+              "name": "Fish in Choice of Sauce",
+              "description": "Fish in the sauce of your choice.",
+              "price": "₹319"
+            },
+            {
+              "name": "Prawn in Choice of Sauce",
+              "description": "Prawns in the sauce of your choice.",
+              "price": "₹419",
+              "tag": "Must try"
+            }
+          ]
+        },
+        {
+          "id": "desserts",
+          "name": "Desserts",
+          "items": [
+            {
+              "name": "Sizzling Brownie with Ice Cream",
+              "description": "A warm chocolate brownie on a sizzling plate, topped with vanilla ice cream, chocolate sauce and choco chips.",
+              "vegetarian": true,
+              "featured": true,
+              "tag": "Popular",
+              "image": "/clients/blanco-kitchen-terrace/dishes/sizzling-brownie.webp"
+            }
+          ]
+        }
+      ],
+      "menuNote": "Every dish is prepared fresh when you order, so please allow about 30 minutes. Ask your server for prices not shown here.",
+      "gallery": [
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/terrace-night.jpg",
+          "alt": "The Santorini-style terrace with blue railings, lit up at night"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/mocktails.webp",
+          "alt": "A table of colourful mocktails and coolers"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/salads.webp",
+          "alt": "Chicken salad with grated cheese and roasted vegetables with parmesan"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/garden-dining-hall.jpg",
+          "alt": "The dining hall under a ceiling of hanging greenery"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/cheese-garlic-bread.webp",
+          "alt": "Cheese garlic bread with a creamy dip"
+        },
+        {
+          "src": "/clients/blanco-kitchen-terrace/gallery/paneer-lollipop.webp",
+          "alt": "Paneer lollipops in a glossy red glaze"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "A cool place to go with friends and family. Really thoughtfully crafted, with superb service and amazing food. Totally recommend.",
+          "author": "Google reviewer",
+          "context": "Google Maps review",
+          "rating": 5
+        },
+        {
+          "quote": "The staff behaviour and hospitality were truly impressive. Everyone was polite, attentive and welcoming. Great food, great service and an overall lovely atmosphere.",
+          "author": "Google reviewer",
+          "context": "Google Maps review",
+          "rating": 5
+        },
+        {
+          "quote": "Food quality, taste, atmosphere and live music were great.",
+          "author": "Google reviewer",
+          "context": "Google Maps review",
+          "rating": 5
+        }
+      ]
+    }
   }
 ]

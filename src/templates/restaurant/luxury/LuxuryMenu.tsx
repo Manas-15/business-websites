@@ -18,8 +18,12 @@ function MenuLine({ item }: { item: MenuItem }) {
             <span className="ml-2 align-middle font-sans text-[0.65rem] font-semibold tracking-[0.18em] text-primary uppercase">{item.tag}</span>
           ) : null}
         </h4>
-        <span className="flex-1 translate-y-[-0.3em] border-b border-dotted border-foreground/30" aria-hidden="true" />
-        <span className="font-semibold text-primary">{item.price}</span>
+        {item.price ? (
+          <>
+            <span className="flex-1 translate-y-[-0.3em] border-b border-dotted border-foreground/30" aria-hidden="true" />
+            <span className="font-semibold text-primary">{item.price}</span>
+          </>
+        ) : null}
       </div>
       <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
         {item.description}
