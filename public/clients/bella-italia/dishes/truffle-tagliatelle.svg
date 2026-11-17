@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Truffle Tagliatelle">
+  <rect width="800" height="1000" fill="#f5e6d3"/>
+  <circle cx="400" cy="450" r="176" fill="#8b1e24"/>
+  <rect x="160" y="780" width="480" height="40" rx="6" fill="#8b1e24" opacity="0.6"/>
+  <text x="400" y="930" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="#2a2220">Truffle Tagliatelle (placeholder)</text>
+</svg>

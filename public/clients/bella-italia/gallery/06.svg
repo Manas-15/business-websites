@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-label="Table for two">
+  <rect width="1200" height="1200" fill="#ead7bf"/>
+  <circle cx="600" cy="540" r="264" fill="#5c3a21"/>
+  <rect x="240" y="936" width="720" height="48" rx="6" fill="#5c3a21" opacity="0.6"/>
+  <text x="600" y="1116" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" fill="#2a2220">Table for two (placeholder)</text>
+</svg>

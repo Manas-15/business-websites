@@ -1,0 +1,294 @@
+[
+  {
+    "slug": "kalinga-kitchen",
+    "businessType": "restaurant",
+    "templateVariant": "traditional",
+    "business": {
+      "name": "Kalinga Kitchen",
+      "tagline": "The true taste of Odisha, served with pride",
+      "description": "Traditional Odia cuisine cooked the way it has been for generations: slow-simmered dalma, temple-style sweets and fresh catch from the Bay of Bengal.",
+      "heroImage": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?w=2000&q=80"
+    },
+    "theme": {
+      "primary": "#1e3a5f",
+      "secondary": "#f1dfa8",
+      "background": "#fbf8f1",
+      "text": "#1c2430",
+      "headingFont": "Cormorant Garamond",
+      "bodyFont": "Lato",
+      "radius": "none"
+    },
+    "contact": {
+      "phone": "+91 94370 11223",
+      "email": "namaskar@kalingakitchen.example",
+      "address": "Plot 21, Janpath Road, Unit 3, Bhubaneswar, Odisha 751001",
+      "whatsapp": "919437011223"
+    },
+    "openingHours": [
+      {
+        "day": "Every day",
+        "hours": "11:30 AM - 3:30 PM"
+      },
+      {
+        "day": "Dinner",
+        "hours": "7:00 PM - 11:00 PM"
+      }
+    ],
+    "social": {
+      "instagram": "https://instagram.com/",
+      "facebook": "https://facebook.com/",
+      "youtube": "https://youtube.com/"
+    },
+    "announcement": {
+      "text": "Raja festival special thali available 14 to 16 June."
+    },
+    "seo": {
+      "title": "Kalinga Kitchen | Authentic Odia Restaurant in Bhubaneswar",
+      "description": "Dalma, machha besara, chhena poda and classic Odia thalis at Kalinga Kitchen, Janpath, Bhubaneswar.",
+      "keywords": [
+        "Odia restaurant",
+        "Odia thali",
+        "Bhubaneswar",
+        "chhena poda",
+        "dalma"
+      ]
+    },
+    "content": {
+      "heroEyebrow": "Authentic Odia cuisine · Est. 1998",
+      "highlights": [
+        {
+          "value": "25+",
+          "label": "Years serving Odia food"
+        },
+        {
+          "value": "40",
+          "label": "Traditional recipes on the menu"
+        },
+        {
+          "value": "Daily",
+          "label": "Fresh catch from Paradeep"
+        },
+        {
+          "value": "Temple",
+          "label": "Style sweets made in-house"
+        }
+      ],
+      "about": {
+        "eyebrow": "Our story",
+        "title": "Food from our grandmothers' kitchens",
+        "paragraphs": [
+          "Kalinga Kitchen opened in 1998 with a single idea: serve the food Odia families eat at home, without shortcuts. Our dalma simmers for hours, our pakhala is fermented overnight and our sweets follow the temple recipes of Puri.",
+          "Every dish is cooked in earthen and brass vessels with mustard oil, panch phutana and ingredients bought each morning from the Unit 1 market."
+        ],
+        "image": {
+          "src": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=1400&q=80",
+          "alt": "Friends sharing dishes across a table"
+        }
+      },
+      "chef": {
+        "name": "Sulochana Mohanty",
+        "title": "Founder & Head Cook",
+        "quote": "Odia food is patient food. You cannot rush a dalma, and you should not try.",
+        "bio": "Sulochana learned to cook in her family home in Cuttack and has led the Kalinga Kitchen stove for twenty-five years.",
+        "image": "https://images.unsplash.com/photo-1508766917616-d22f3f1eea14?w=1200&q=80"
+      },
+      "features": [
+        {
+          "title": "Heritage recipes",
+          "description": "Every dish follows a family recipe, written down and followed to the letter.",
+          "icon": "heart"
+        },
+        {
+          "title": "Fresh from the coast",
+          "description": "Fish and prawns arrive daily from the Paradeep and Chandipur harbours.",
+          "icon": "leaf"
+        },
+        {
+          "title": "Cooked in clay and brass",
+          "description": "Slow cooking in traditional vessels gives the gravies their depth.",
+          "icon": "flame"
+        },
+        {
+          "title": "Thali for every appetite",
+          "description": "Vegetarian, fish and mutton thalis, with unlimited rice and dalma.",
+          "icon": "utensils"
+        }
+      ],
+      "menu": [
+        {
+          "id": "thalis",
+          "name": "Thalis",
+          "description": "Served with rice, dalma, saga bhaja, khata, papad and a sweet.",
+          "items": [
+            {
+              "name": "Odia Veg Thali",
+              "description": "Dalma, santula, besara, dahi baigana, khata and chhena poda.",
+              "price": "₹349",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=1200&q=80"
+            },
+            {
+              "name": "Machha Thali",
+              "description": "Rohu besara, fish fry, dalma, saga and rice.",
+              "price": "₹449"
+            },
+            {
+              "name": "Mutton Kassa Thali",
+              "description": "Slow-cooked mutton kassa, dalma, aloo bharta and rice.",
+              "price": "₹549",
+              "featured": true,
+              "tag": "Most loved",
+              "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?w=1200&q=80"
+            }
+          ]
+        },
+        {
+          "id": "classics",
+          "name": "Odia classics",
+          "items": [
+            {
+              "name": "Dalma",
+              "description": "Lentils and vegetables tempered with panch phutana and roasted cumin.",
+              "price": "₹199",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=1200&q=80"
+            },
+            {
+              "name": "Pakhala Bhata",
+              "description": "Fermented rice with curd, served with badi chura, aloo bharta and fried fish.",
+              "price": "₹249",
+              "tag": "Summer favourite"
+            },
+            {
+              "name": "Machha Besara",
+              "description": "Rohu in a mustard and garlic gravy, the way Cuttack cooks it.",
+              "price": "₹329",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=1200&q=80"
+            },
+            {
+              "name": "Chingudi Jhola",
+              "description": "Prawns in a light tomato and onion gravy with mustard oil.",
+              "price": "₹399",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=1200&q=80"
+            },
+            {
+              "name": "Mutton Kassa",
+              "description": "Dry-fried mutton with whole spices, slow-cooked until tender.",
+              "price": "₹449",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=1200&q=80"
+            },
+            {
+              "name": "Santula",
+              "description": "Mixed vegetables lightly steamed with garlic and green chilli.",
+              "price": "₹179",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "snacks",
+          "name": "Snacks & street favourites",
+          "items": [
+            {
+              "name": "Dahibara Aloodum",
+              "description": "Soaked lentil dumplings in curd with spiced potato curry, Cuttack style.",
+              "price": "₹149",
+              "vegetarian": true
+            },
+            {
+              "name": "Bara Ghuguni",
+              "description": "Crisp lentil fritters with yellow pea curry and chopped onion.",
+              "price": "₹129",
+              "vegetarian": true
+            },
+            {
+              "name": "Chakuli Pitha",
+              "description": "Soft rice pancakes with ghuguni or coconut chutney.",
+              "price": "₹139",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "sweets",
+          "name": "Sweets",
+          "items": [
+            {
+              "name": "Chhena Poda",
+              "description": "Baked cottage cheese with caramelised sugar, the pride of Odisha.",
+              "price": "₹120",
+              "vegetarian": true,
+              "featured": true,
+              "tag": "Must try",
+              "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=1200&q=80"
+            },
+            {
+              "name": "Rasabali",
+              "description": "Flattened chhena patties soaked in thickened, cardamom-scented milk.",
+              "price": "₹110",
+              "vegetarian": true
+            },
+            {
+              "name": "Khira Gaintha",
+              "description": "Rice dumplings simmered in sweet, reduced milk.",
+              "price": "₹99",
+              "vegetarian": true
+            }
+          ]
+        }
+      ],
+      "menuNote": "Thalis are served with unlimited rice and dalma. All prices include taxes.",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=1200&q=80",
+          "alt": "A traditional thali with rice, dal and vegetables"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=1200&q=80",
+          "alt": "Rice pancakes with chutneys"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=1200&q=80",
+          "alt": "Guests sharing dishes across the table"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=1200&q=80",
+          "alt": "Crisp fried snacks with green chilli"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?w=1200&q=80",
+          "alt": "The wood-panelled dining hall"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=1200&q=80",
+          "alt": "Busy tables at lunchtime"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "This is the closest I have come to my mother's cooking anywhere outside home. The dalma is perfect.",
+          "author": "Subhasmita P.",
+          "context": "Visiting from Bengaluru",
+          "rating": 5
+        },
+        {
+          "quote": "We brought guests from Delhi to show them real Odia food. They have not stopped talking about the chhena poda.",
+          "author": "Debasis R.",
+          "context": "Regular customer",
+          "rating": 5
+        },
+        {
+          "quote": "Generous thalis, honest prices and very kind staff. The pakhala in summer is a gift.",
+          "author": "Kavita N.",
+          "context": "Lunch guest",
+          "rating": 5
+        }
+      ]
+    }
+  }
+]

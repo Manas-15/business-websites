@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-label="Chef plating">
+  <rect width="1200" height="1200" fill="#f3e4d0"/>
+  <circle cx="600" cy="540" r="264" fill="#a0522d"/>
+  <rect x="240" y="936" width="720" height="48" rx="6" fill="#a0522d" opacity="0.6"/>
+  <text x="600" y="1116" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" fill="#2a2220">Chef plating (placeholder)</text>
+</svg>

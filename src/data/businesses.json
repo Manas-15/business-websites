@@ -1,0 +1,2037 @@
+[
+  {
+    "slug": "bella-italia",
+    "businessType": "restaurant",
+    "templateVariant": "luxury",
+    "business": {
+      "name": "Bella Italia",
+      "tagline": "Authentic Italian cooking, made by hand",
+      "description": "A family-run Italian restaurant serving handmade pasta, wood-fired pizza and classic recipes from Naples and Tuscany, in the heart of Bhubaneswar.",
+      "logo": "/clients/bella-italia/logo.svg",
+      "favicon": "/clients/bella-italia/favicon.svg",
+      "heroImage": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=2000&q=80"
+    },
+    "theme": {
+      "primary": "#8b1e24",
+      "secondary": "#f5e6d3",
+      "background": "#fffdf9",
+      "text": "#2a2220",
+      "headingFont": "Playfair Display",
+      "bodyFont": "Lato",
+      "radius": "md"
+    },
+    "contact": {
+      "phone": "+91 98765 43210",
+      "email": "hello@bellaitalia.example",
+      "address": "12 Market Street, Saheed Nagar, Bhubaneswar, Odisha 751007",
+      "whatsapp": "919876543210"
+    },
+    "openingHours": [
+      {
+        "day": "Monday - Thursday",
+        "hours": "12:00 PM - 10:30 PM"
+      },
+      {
+        "day": "Friday - Sunday",
+        "hours": "12:00 PM - 11:30 PM"
+      }
+    ],
+    "social": {
+      "instagram": "https://instagram.com/",
+      "facebook": "https://facebook.com/"
+    },
+    "announcement": {
+      "text": "Sunday lunch: three courses for ₹1,299 per guest. Book ahead.",
+      "href": "#reservations"
+    },
+    "seo": {
+      "title": "Bella Italia | Authentic Italian Restaurant in Bhubaneswar",
+      "description": "Discover handmade pasta, wood-fired pizza and classic Italian dishes at Bella Italia, Bhubaneswar.",
+      "keywords": [
+        "Italian restaurant",
+        "pizza",
+        "pasta",
+        "Bhubaneswar"
+      ]
+    },
+    "content": {
+      "heroEyebrow": "Italian trattoria · Bhubaneswar",
+      "highlights": [
+        {
+          "value": "Since 2009",
+          "label": "Three generations of cooks"
+        },
+        {
+          "value": "48",
+          "label": "Seats, plus a private room"
+        },
+        {
+          "value": "Daily",
+          "label": "Pasta rolled each morning"
+        },
+        {
+          "value": "4.8 ★",
+          "label": "From 1,200+ guest reviews"
+        }
+      ],
+      "about": {
+        "eyebrow": "Our story",
+        "title": "Three generations of Italian cooking",
+        "paragraphs": [
+          "Bella Italia started as a small family kitchen serving neighbours on weekends. Today we still cook the same way: simple ingredients, patient sauces and pasta rolled by hand.",
+          "Our menu draws on the regional cooking of Naples, Bologna and Tuscany. We change the specials with the seasons so there is always something new to try alongside the classics."
+        ],
+        "image": {
+          "src": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=1400&q=80",
+          "alt": "A cook chopping fresh herbs on a wooden board"
+        }
+      },
+      "chef": {
+        "name": "Marco Rossi",
+        "title": "Head Chef & Co-owner",
+        "quote": "Good pasta needs only three things: flour, eggs and someone who is not in a hurry.",
+        "bio": "Marco trained in Bologna before bringing his grandmother's recipes to Odisha. He still makes the tagliatelle himself every morning.",
+        "image": "https://images.unsplash.com/photo-1428515613728-6b4607e44363?w=1200&q=80"
+      },
+      "features": [
+        {
+          "title": "Made by hand, every day",
+          "description": "Pasta, dough and sauces are prepared in the kitchen each morning.",
+          "icon": "chef"
+        },
+        {
+          "title": "Fresh, local produce",
+          "description": "We buy vegetables and herbs from local growers whenever the season allows.",
+          "icon": "leaf"
+        },
+        {
+          "title": "Wood-fired oven",
+          "description": "Pizzas bake at high heat for a blistered crust and a light, airy base.",
+          "icon": "flame"
+        },
+        {
+          "title": "A considered wine list",
+          "description": "Italian and Indian wines chosen to pair with the menu, by the glass or bottle.",
+          "icon": "wine"
+        }
+      ],
+      "menu": [
+        {
+          "id": "antipasti",
+          "name": "Antipasti",
+          "items": [
+            {
+              "name": "Bruschetta al Pomodoro",
+              "description": "Toasted sourdough, vine tomatoes, basil and aged balsamic.",
+              "price": "₹320",
+              "vegetarian": true
+            },
+            {
+              "name": "Burrata e Prosciutto",
+              "description": "Creamy burrata, 24-month prosciutto and grilled peaches.",
+              "price": "₹580"
+            },
+            {
+              "name": "Zuppa di Zucca",
+              "description": "Roasted pumpkin soup with sage butter and toasted seeds.",
+              "price": "₹340",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "pasta",
+          "name": "Pasta",
+          "items": [
+            {
+              "name": "Truffle Tagliatelle",
+              "description": "Fresh egg tagliatelle, black truffle butter and parmesan.",
+              "price": "₹620",
+              "vegetarian": true,
+              "featured": true,
+              "tag": "Signature",
+              "image": "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?w=1200&q=80"
+            },
+            {
+              "name": "Lasagna alla Bolognese",
+              "description": "Slow-cooked beef ragù, béchamel and aged parmigiano.",
+              "price": "₹540",
+              "featured": true,
+              "image": "/clients/bella-italia/dishes/lasagna.jpg"
+            },
+            {
+              "name": "Penne Arrabbiata",
+              "description": "San Marzano tomato, garlic, chilli and fresh basil.",
+              "price": "₹420",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "pizza",
+          "name": "Pizza",
+          "items": [
+            {
+              "name": "Margherita",
+              "description": "San Marzano tomato, fior di latte and basil, baked in our wood-fired oven.",
+              "price": "₹480",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=1200&q=80"
+            },
+            {
+              "name": "Diavola",
+              "description": "Spicy salami, tomato, mozzarella and chilli oil.",
+              "price": "₹560"
+            },
+            {
+              "name": "Quattro Formaggi",
+              "description": "Mozzarella, gorgonzola, fontina and parmigiano.",
+              "price": "₹580",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "secondi",
+          "name": "Secondi",
+          "items": [
+            {
+              "name": "Pollo alla Parmigiana",
+              "description": "Crumbed chicken breast, tomato sugo and melted mozzarella.",
+              "price": "₹640"
+            },
+            {
+              "name": "Branzino al Forno",
+              "description": "Whole sea bass baked with lemon, capers and herbs.",
+              "price": "₹860"
+            }
+          ]
+        },
+        {
+          "id": "dolci",
+          "name": "Dolci",
+          "items": [
+            {
+              "name": "Tiramisù",
+              "description": "Espresso-soaked savoiardi and mascarpone cream.",
+              "price": "₹340",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?w=1200&q=80"
+            },
+            {
+              "name": "Panna Cotta",
+              "description": "Vanilla bean panna cotta with seasonal berry compote.",
+              "price": "₹320",
+              "vegetarian": true
+            }
+          ]
+        }
+      ],
+      "menuNote": "V = vegetarian. Prices include taxes. Please tell us about any allergies.",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200&q=80",
+          "alt": "The dining room lit by warm pendant lamps"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&q=80",
+          "alt": "A plated dish with a glass of red wine"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=1200&q=80",
+          "alt": "Grapes on the vine at sunset"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1587899897387-091ebd01a6b2?w=1200&q=80",
+          "alt": "A table set for dinner"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1508766917616-d22f3f1eea14?w=1200&q=80",
+          "alt": "Chefs at work in the kitchen"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=1200&q=80",
+          "alt": "Guests dining, seen from above"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "The truffle tagliatelle alone is worth the trip. It felt like dining in a small trattoria in Rome.",
+          "author": "Priya S.",
+          "context": "Dinner guest",
+          "rating": 5
+        },
+        {
+          "quote": "Our family's go-to for birthdays. The staff remember our order and the wood-fired pizza is outstanding.",
+          "author": "Rahul M.",
+          "context": "Regular customer",
+          "rating": 5
+        },
+        {
+          "quote": "Warm service, a calm room and tiramisù that I still think about. Booking ahead is a good idea.",
+          "author": "Anjali D.",
+          "context": "Anniversary dinner",
+          "rating": 4
+        }
+      ]
+    }
+  },
+  {
+    "slug": "kalinga-kitchen",
+    "businessType": "restaurant",
+    "templateVariant": "traditional",
+    "business": {
+      "name": "Kalinga Kitchen",
+      "tagline": "The true taste of Odisha, served with pride",
+      "description": "Traditional Odia cuisine cooked the way it has been for generations: slow-simmered dalma, temple-style sweets and fresh catch from the Bay of Bengal.",
+      "heroImage": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?w=2000&q=80"
+    },
+    "theme": {
+      "primary": "#1e3a5f",
+      "secondary": "#f1dfa8",
+      "background": "#fbf8f1",
+      "text": "#1c2430",
+      "headingFont": "Cormorant Garamond",
+      "bodyFont": "Lato",
+      "radius": "none"
+    },
+    "contact": {
+      "phone": "+91 94370 11223",
+      "email": "namaskar@kalingakitchen.example",
+      "address": "Plot 21, Janpath Road, Unit 3, Bhubaneswar, Odisha 751001",
+      "whatsapp": "919437011223"
+    },
+    "openingHours": [
+      {
+        "day": "Every day",
+        "hours": "11:30 AM - 3:30 PM"
+      },
+      {
+        "day": "Dinner",
+        "hours": "7:00 PM - 11:00 PM"
+      }
+    ],
+    "social": {
+      "instagram": "https://instagram.com/",
+      "facebook": "https://facebook.com/",
+      "youtube": "https://youtube.com/"
+    },
+    "announcement": {
+      "text": "Raja festival special thali available 14 to 16 June."
+    },
+    "seo": {
+      "title": "Kalinga Kitchen | Authentic Odia Restaurant in Bhubaneswar",
+      "description": "Dalma, machha besara, chhena poda and classic Odia thalis at Kalinga Kitchen, Janpath, Bhubaneswar.",
+      "keywords": [
+        "Odia restaurant",
+        "Odia thali",
+        "Bhubaneswar",
+        "chhena poda",
+        "dalma"
+      ]
+    },
+    "content": {
+      "heroEyebrow": "Authentic Odia cuisine · Est. 1998",
+      "highlights": [
+        {
+          "value": "25+",
+          "label": "Years serving Odia food"
+        },
+        {
+          "value": "40",
+          "label": "Traditional recipes on the menu"
+        },
+        {
+          "value": "Daily",
+          "label": "Fresh catch from Paradeep"
+        },
+        {
+          "value": "Temple",
+          "label": "Style sweets made in-house"
+        }
+      ],
+      "about": {
+        "eyebrow": "Our story",
+        "title": "Food from our grandmothers' kitchens",
+        "paragraphs": [
+          "Kalinga Kitchen opened in 1998 with a single idea: serve the food Odia families eat at home, without shortcuts. Our dalma simmers for hours, our pakhala is fermented overnight and our sweets follow the temple recipes of Puri.",
+          "Every dish is cooked in earthen and brass vessels with mustard oil, panch phutana and ingredients bought each morning from the Unit 1 market."
+        ],
+        "image": {
+          "src": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=1400&q=80",
+          "alt": "Friends sharing dishes across a table"
+        }
+      },
+      "chef": {
+        "name": "Sulochana Mohanty",
+        "title": "Founder & Head Cook",
+        "quote": "Odia food is patient food. You cannot rush a dalma, and you should not try.",
+        "bio": "Sulochana learned to cook in her family home in Cuttack and has led the Kalinga Kitchen stove for twenty-five years.",
+        "image": "https://images.unsplash.com/photo-1508766917616-d22f3f1eea14?w=1200&q=80"
+      },
+      "features": [
+        {
+          "title": "Heritage recipes",
+          "description": "Every dish follows a family recipe, written down and followed to the letter.",
+          "icon": "heart"
+        },
+        {
+          "title": "Fresh from the coast",
+          "description": "Fish and prawns arrive daily from the Paradeep and Chandipur harbours.",
+          "icon": "leaf"
+        },
+        {
+          "title": "Cooked in clay and brass",
+          "description": "Slow cooking in traditional vessels gives the gravies their depth.",
+          "icon": "flame"
+        },
+        {
+          "title": "Thali for every appetite",
+          "description": "Vegetarian, fish and mutton thalis, with unlimited rice and dalma.",
+          "icon": "utensils"
+        }
+      ],
+      "menu": [
+        {
+          "id": "thalis",
+          "name": "Thalis",
+          "description": "Served with rice, dalma, saga bhaja, khata, papad and a sweet.",
+          "items": [
+            {
+              "name": "Odia Veg Thali",
+              "description": "Dalma, santula, besara, dahi baigana, khata and chhena poda.",
+              "price": "₹349",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=1200&q=80"
+            },
+            {
+              "name": "Machha Thali",
+              "description": "Rohu besara, fish fry, dalma, saga and rice.",
+              "price": "₹449"
+            },
+            {
+              "name": "Mutton Kassa Thali",
+              "description": "Slow-cooked mutton kassa, dalma, aloo bharta and rice.",
+              "price": "₹549",
+              "featured": true,
+              "tag": "Most loved",
+              "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?w=1200&q=80"
+            }
+          ]
+        },
+        {
+          "id": "classics",
+          "name": "Odia classics",
+          "items": [
+            {
+              "name": "Dalma",
+              "description": "Lentils and vegetables tempered with panch phutana and roasted cumin.",
+              "price": "₹199",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=1200&q=80"
+            },
+            {
+              "name": "Pakhala Bhata",
+              "description": "Fermented rice with curd, served with badi chura, aloo bharta and fried fish.",
+              "price": "₹249",
+              "tag": "Summer favourite"
+            },
+            {
+              "name": "Machha Besara",
+              "description": "Rohu in a mustard and garlic gravy, the way Cuttack cooks it.",
+              "price": "₹329",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=1200&q=80"
+            },
+            {
+              "name": "Chingudi Jhola",
+              "description": "Prawns in a light tomato and onion gravy with mustard oil.",
+              "price": "₹399",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=1200&q=80"
+            },
+            {
+              "name": "Mutton Kassa",
+              "description": "Dry-fried mutton with whole spices, slow-cooked until tender.",
+              "price": "₹449",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=1200&q=80"
+            },
+            {
+              "name": "Santula",
+              "description": "Mixed vegetables lightly steamed with garlic and green chilli.",
+              "price": "₹179",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "snacks",
+          "name": "Snacks & street favourites",
+          "items": [
+            {
+              "name": "Dahibara Aloodum",
+              "description": "Soaked lentil dumplings in curd with spiced potato curry, Cuttack style.",
+              "price": "₹149",
+              "vegetarian": true
+            },
+            {
+              "name": "Bara Ghuguni",
+              "description": "Crisp lentil fritters with yellow pea curry and chopped onion.",
+              "price": "₹129",
+              "vegetarian": true
+            },
+            {
+              "name": "Chakuli Pitha",
+              "description": "Soft rice pancakes with ghuguni or coconut chutney.",
+              "price": "₹139",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "sweets",
+          "name": "Sweets",
+          "items": [
+            {
+              "name": "Chhena Poda",
+              "description": "Baked cottage cheese with caramelised sugar, the pride of Odisha.",
+              "price": "₹120",
+              "vegetarian": true,
+              "featured": true,
+              "tag": "Must try",
+              "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=1200&q=80"
+            },
+            {
+              "name": "Rasabali",
+              "description": "Flattened chhena patties soaked in thickened, cardamom-scented milk.",
+              "price": "₹110",
+              "vegetarian": true
+            },
+            {
+              "name": "Khira Gaintha",
+              "description": "Rice dumplings simmered in sweet, reduced milk.",
+              "price": "₹99",
+              "vegetarian": true
+            }
+          ]
+        }
+      ],
+      "menuNote": "Thalis are served with unlimited rice and dalma. All prices include taxes.",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=1200&q=80",
+          "alt": "A traditional thali with rice, dal and vegetables"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=1200&q=80",
+          "alt": "Rice pancakes with chutneys"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=1200&q=80",
+          "alt": "Guests sharing dishes across the table"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=1200&q=80",
+          "alt": "Crisp fried snacks with green chilli"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?w=1200&q=80",
+          "alt": "The wood-panelled dining hall"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=1200&q=80",
+          "alt": "Busy tables at lunchtime"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "This is the closest I have come to my mother's cooking anywhere outside home. The dalma is perfect.",
+          "author": "Subhasmita P.",
+          "context": "Visiting from Bengaluru",
+          "rating": 5
+        },
+        {
+          "quote": "We brought guests from Delhi to show them real Odia food. They have not stopped talking about the chhena poda.",
+          "author": "Debasis R.",
+          "context": "Regular customer",
+          "rating": 5
+        },
+        {
+          "quote": "Generous thalis, honest prices and very kind staff. The pakhala in summer is a gift.",
+          "author": "Kavita N.",
+          "context": "Lunch guest",
+          "rating": 5
+        }
+      ]
+    }
+  },
+  {
+    "slug": "saffron-court",
+    "businessType": "restaurant",
+    "templateVariant": "luxury",
+    "business": {
+      "name": "Saffron Court",
+      "tagline": "An evening of Awadhi grandeur",
+      "description": "Fine dining from the kitchens of Lucknow and Hyderabad: slow-cooked dum biryani, melt-in-the-mouth kebabs and a cellar chosen to match. Dinner at Saffron Court is an occasion.",
+      "heroImage": "https://images.unsplash.com/photo-1578474846511-04ba529f0b88?w=2000&q=80"
+    },
+    "theme": {
+      "primary": "#c9a45c",
+      "secondary": "#2a2420",
+      "background": "#14110f",
+      "text": "#f5f0e6",
+      "headingFont": "Cormorant Garamond",
+      "bodyFont": "Montserrat",
+      "radius": "none"
+    },
+    "contact": {
+      "phone": "+91 674 255 0100",
+      "email": "reservations@saffroncourt.example",
+      "address": "The Grand Pavilion, Nayapalli, Bhubaneswar, Odisha 751013",
+      "whatsapp": "916742550100",
+      "mapEmbedUrl": "https://www.google.com/maps?q=Nayapalli,+Bhubaneswar&output=embed"
+    },
+    "openingHours": [
+      {
+        "day": "Tuesday - Sunday",
+        "hours": "7:00 PM - 11:30 PM"
+      },
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      }
+    ],
+    "social": {
+      "instagram": "https://instagram.com/",
+      "facebook": "https://facebook.com/"
+    },
+    "seo": {
+      "title": "Saffron Court | Fine Dining Awadhi Restaurant in Bhubaneswar",
+      "description": "Dum biryani, galouti kebabs and a refined tasting menu at Saffron Court, Bhubaneswar's fine dining destination.",
+      "keywords": [
+        "fine dining Bhubaneswar",
+        "Awadhi restaurant",
+        "biryani",
+        "kebabs",
+        "tasting menu"
+      ]
+    },
+    "content": {
+      "heroEyebrow": "Fine dining · Awadhi & Hyderabadi",
+      "highlights": [
+        {
+          "value": "7",
+          "label": "Course tasting menu"
+        },
+        {
+          "value": "120",
+          "label": "Wines and spirits in the cellar"
+        },
+        {
+          "value": "2",
+          "label": "Private dining rooms"
+        },
+        {
+          "value": "Live",
+          "label": "Ghazal evenings on Fridays"
+        }
+      ],
+      "about": {
+        "eyebrow": "The house",
+        "title": "Slow food from the royal kitchens",
+        "paragraphs": [
+          "Dum pukht cooking seals the pot with dough and lets time do the work. At Saffron Court every biryani, korma and nihari is cooked this way, for hours, so the spices settle into something quiet and deep.",
+          "The dining room is dressed in brass, velvet and candlelight. Service is unhurried. We ask only that you give the evening the time it deserves."
+        ],
+        "image": {
+          "src": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?w=1400&q=80",
+          "alt": "A chef finishing a dish over an open flame"
+        }
+      },
+      "chef": {
+        "name": "Imtiaz Qureshi",
+        "title": "Executive Chef",
+        "quote": "A kebab should not need teeth. If it does, it is not finished.",
+        "bio": "Imtiaz comes from a line of Lucknow bawarchis and has cooked for state banquets across India before opening the Saffron Court kitchen.",
+        "image": "https://images.unsplash.com/photo-1428515613728-6b4607e44363?w=1200&q=80"
+      },
+      "features": [
+        {
+          "title": "Dum pukht cooking",
+          "description": "Sealed pots, low heat and hours of patience in every gravy.",
+          "icon": "flame"
+        },
+        {
+          "title": "Sommelier pairings",
+          "description": "A curated cellar with pairings for the tasting menu.",
+          "icon": "wine"
+        },
+        {
+          "title": "Private dining",
+          "description": "Two rooms for celebrations and business dinners of up to 24 guests.",
+          "icon": "users"
+        },
+        {
+          "title": "Award-winning kitchen",
+          "description": "Named among the best fine dining restaurants in eastern India.",
+          "icon": "award"
+        }
+      ],
+      "menu": [
+        {
+          "id": "kebabs",
+          "name": "From the sigri",
+          "items": [
+            {
+              "name": "Galouti Kebab",
+              "description": "Finely minced lamb with 32 spices, seared and served on saffron ulte tawa paratha.",
+              "price": "₹895",
+              "featured": true,
+              "tag": "House classic",
+              "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=1200&q=80"
+            },
+            {
+              "name": "Murgh Tandoori",
+              "description": "Spring chicken marinated for 24 hours in yoghurt, Kashmiri chilli and garam masala.",
+              "price": "₹795",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?w=1200&q=80"
+            },
+            {
+              "name": "Paneer Tikka Zafrani",
+              "description": "Saffron-marinated cottage cheese, grilled over charcoal.",
+              "price": "₹645",
+              "vegetarian": true
+            },
+            {
+              "name": "Samosa Chaat",
+              "description": "Crisp samosas with tamarind, mint and pomegranate.",
+              "price": "₹425",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "mains",
+          "name": "Dum & curries",
+          "items": [
+            {
+              "name": "Murgh Makhani",
+              "description": "Tandoori chicken folded into a silk tomato and butter gravy, finished with cream.",
+              "price": "₹945",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=1200&q=80"
+            },
+            {
+              "name": "Gosht Dum Biryani",
+              "description": "Lamb and aged basmati sealed and slow-cooked with saffron, served with burani raita.",
+              "price": "₹1,195",
+              "featured": true,
+              "tag": "Signature",
+              "image": "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?w=1200&q=80"
+            },
+            {
+              "name": "Paneer Lababdar",
+              "description": "Cottage cheese in a rich onion and tomato gravy with crushed fenugreek.",
+              "price": "₹745",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=1200&q=80"
+            },
+            {
+              "name": "Dal Saffron Court",
+              "description": "Black lentils simmered overnight and finished with white butter.",
+              "price": "₹595",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1567337710282-00832b415979?w=1200&q=80"
+            }
+          ]
+        },
+        {
+          "id": "breads",
+          "name": "Breads & rice",
+          "items": [
+            {
+              "name": "Sheermal",
+              "description": "Saffron and milk bread, baked in the tandoor.",
+              "price": "₹195",
+              "vegetarian": true
+            },
+            {
+              "name": "Garlic Naan",
+              "description": "Hand-stretched naan with roasted garlic and butter.",
+              "price": "₹165",
+              "vegetarian": true
+            },
+            {
+              "name": "Zafrani Pulao",
+              "description": "Aged basmati with saffron, nuts and dried fruit.",
+              "price": "₹395",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "desserts",
+          "name": "Desserts",
+          "items": [
+            {
+              "name": "Shahi Tukda",
+              "description": "Saffron bread pudding with rabri and pistachio.",
+              "price": "₹395",
+              "vegetarian": true
+            },
+            {
+              "name": "Kesar Phirni",
+              "description": "Set rice pudding with saffron, served in clay.",
+              "price": "₹345",
+              "vegetarian": true
+            }
+          ]
+        }
+      ],
+      "menuNote": "A seven-course tasting menu is available at ₹3,900 per guest with 24 hours' notice. Prices exclude service charge.",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200&q=80",
+          "alt": "The candle-lit main dining room"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&q=80",
+          "alt": "A plated course with wine"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1587899897387-091ebd01a6b2?w=1200&q=80",
+          "alt": "Table laid with glassware for dinner"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?w=1200&q=80",
+          "alt": "A chef working over flame in the open kitchen"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=1200&q=80",
+          "alt": "Kebabs on the charcoal grill"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1535399831218-d5bd36d1a6b3?w=1200&q=80",
+          "alt": "A delicately plated dessert"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "The galouti dissolves on the tongue and the biryani is the best we have had outside Hyderabad. A truly special evening.",
+          "author": "Arvind & Meera K.",
+          "context": "Anniversary dinner",
+          "rating": 5
+        },
+        {
+          "quote": "We hosted a client dinner in the private room. Flawless service and the sommelier's pairings were spot on.",
+          "author": "Nandita B.",
+          "context": "Corporate dinner",
+          "rating": 5
+        },
+        {
+          "quote": "Expensive, but worth every rupee. The tasting menu is a journey.",
+          "author": "Rohan T.",
+          "context": "Tasting menu",
+          "rating": 4
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ember-and-oak",
+    "businessType": "restaurant",
+    "templateVariant": "modern",
+    "business": {
+      "name": "Ember & Oak",
+      "tagline": "Wood-fired grill, craft drinks, good company",
+      "description": "A modern grill house where everything meets the fire: dry-aged steaks, slow-smoked ribs, charred vegetables and a bar that takes its cocktails seriously.",
+      "heroImage": "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?w=2000&q=80"
+    },
+    "theme": {
+      "primary": "#0f766e",
+      "secondary": "#ccfbf1",
+      "background": "#f8fafc",
+      "text": "#0f172a",
+      "headingFont": "Poppins",
+      "bodyFont": "Inter",
+      "radius": "lg"
+    },
+    "contact": {
+      "phone": "+91 70080 55667",
+      "email": "hello@emberandoak.example",
+      "address": "Esplanade One Mall, Rasulgarh, Bhubaneswar, Odisha 751010",
+      "whatsapp": "917008055667"
+    },
+    "openingHours": [
+      {
+        "day": "Monday - Friday",
+        "hours": "12:00 PM - 11:00 PM"
+      },
+      {
+        "day": "Saturday - Sunday",
+        "hours": "12:00 PM - 12:30 AM"
+      }
+    ],
+    "social": {
+      "instagram": "https://instagram.com/",
+      "facebook": "https://facebook.com/",
+      "x": "https://x.com/"
+    },
+    "announcement": {
+      "text": "Happy hour every weekday, 4 to 7 PM. Two cocktails for the price of one.",
+      "href": "#menu"
+    },
+    "seo": {
+      "title": "Ember & Oak | Wood-fired Grill & Bar in Bhubaneswar",
+      "description": "Dry-aged steaks, smoked ribs, burgers and craft cocktails at Ember & Oak, Rasulgarh, Bhubaneswar.",
+      "keywords": [
+        "grill restaurant Bhubaneswar",
+        "steak",
+        "bar",
+        "cocktails",
+        "ribs"
+      ]
+    },
+    "content": {
+      "heroEyebrow": "Grill house & bar · Rasulgarh",
+      "highlights": [
+        {
+          "value": "900°C",
+          "label": "Wood-fired grill, lit every day"
+        },
+        {
+          "value": "21 days",
+          "label": "Dry-aged beef and lamb"
+        },
+        {
+          "value": "30+",
+          "label": "Cocktails and craft beers"
+        },
+        {
+          "value": "Late",
+          "label": "Kitchen open till midnight on weekends"
+        }
+      ],
+      "about": {
+        "eyebrow": "About us",
+        "title": "Everything tastes better over a real fire",
+        "paragraphs": [
+          "Ember & Oak started with a single wood-fired grill and a stubborn belief that smoke and char make food better. We still cook on oak and mango wood, and we still cut our own steaks.",
+          "The room is relaxed on purpose. Come in work clothes or dressed up, share a platter at the long table, or sit at the bar and let the team pick your drink."
+        ],
+        "image": {
+          "src": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=1400&q=80",
+          "alt": "A cook chopping fresh herbs"
+        }
+      },
+      "chef": {
+        "name": "Aarav Sen",
+        "title": "Pitmaster & Co-founder",
+        "quote": "Fire is the only seasoning you cannot buy. You have to earn it.",
+        "bio": "Aarav spent six years in Melbourne's grill kitchens before coming home to build the Ember & Oak fire pit from scratch.",
+        "image": "https://images.unsplash.com/photo-1508766917616-d22f3f1eea14?w=1200&q=80"
+      },
+      "features": [
+        {
+          "title": "Real wood fire",
+          "description": "Oak and mango wood, lit every morning, no gas and no shortcuts.",
+          "icon": "flame"
+        },
+        {
+          "title": "In-house butchery",
+          "description": "We age and cut our own meat, so every steak is traced and trimmed by us.",
+          "icon": "chef"
+        },
+        {
+          "title": "Serious drinks",
+          "description": "A rotating cocktail list, local craft beers and a short, smart wine list.",
+          "icon": "wine"
+        },
+        {
+          "title": "Good for groups",
+          "description": "Long tables, sharing platters and a private corner for up to 20.",
+          "icon": "users"
+        }
+      ],
+      "menu": [
+        {
+          "id": "starters",
+          "name": "To start",
+          "items": [
+            {
+              "name": "Charred Corn Ribs",
+              "description": "Chipotle butter, lime and crumbled feta.",
+              "price": "₹345",
+              "vegetarian": true
+            },
+            {
+              "name": "Smoked Chicken Wings",
+              "description": "Six wings, house barbecue glaze and blue cheese dip.",
+              "price": "₹425"
+            },
+            {
+              "name": "Burnt Beetroot Salad",
+              "description": "Fire-roasted beetroot, goat's cheese, walnuts and honey.",
+              "price": "₹395",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200&q=80"
+            }
+          ]
+        },
+        {
+          "id": "grill",
+          "name": "From the grill",
+          "description": "Served with fire-roasted vegetables and a sauce of your choice.",
+          "items": [
+            {
+              "name": "Ribeye, 300 g",
+              "description": "21-day dry-aged, cooked over oak, finished with smoked salt.",
+              "price": "₹1,650",
+              "featured": true,
+              "tag": "Chef's pick",
+              "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=1200&q=80"
+            },
+            {
+              "name": "Half Rack of Pork Ribs",
+              "description": "Six hours in the smoker, glazed with tamarind barbecue sauce.",
+              "price": "₹1,095",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200&q=80"
+            },
+            {
+              "name": "Grilled Salmon",
+              "description": "Cedar-plank salmon with charred lemon and herb butter.",
+              "price": "₹1,195",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=1200&q=80"
+            },
+            {
+              "name": "Whole Roast Chicken",
+              "description": "Brined, spatchcocked and roasted over embers. Serves two.",
+              "price": "₹1,295",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1610057099431-d73a1c9d2f2f?w=1200&q=80"
+            },
+            {
+              "name": "Smoked Cauliflower Steak",
+              "description": "Whole cauliflower, chimichurri and toasted almonds.",
+              "price": "₹595",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "burgers",
+          "name": "Burgers & sandwiches",
+          "items": [
+            {
+              "name": "The Ember Burger",
+              "description": "Double smashed patty, aged cheddar, pickles and smoky mayo in a brioche bun.",
+              "price": "₹645",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=1200&q=80"
+            },
+            {
+              "name": "Pulled Jackfruit Burger",
+              "description": "Barbecue jackfruit, slaw and jalapeño aioli.",
+              "price": "₹545",
+              "vegetarian": true
+            },
+            {
+              "name": "Steak Sandwich",
+              "description": "Sliced ribeye, caramelised onion and horseradish cream on sourdough.",
+              "price": "₹695"
+            }
+          ]
+        },
+        {
+          "id": "drinks",
+          "name": "Bar",
+          "items": [
+            {
+              "name": "Smoked Old Fashioned",
+              "description": "Bourbon, demerara and bitters, finished under an oak smoke cloche.",
+              "price": "₹595"
+            },
+            {
+              "name": "Ember Sour",
+              "description": "Whisky, charred pineapple and lime.",
+              "price": "₹545"
+            },
+            {
+              "name": "Local Craft Beer",
+              "description": "Rotating taps from Odisha and Bengaluru breweries. Ask the team.",
+              "price": "₹395"
+            }
+          ]
+        }
+      ],
+      "menuNote": "Steaks are cooked medium-rare unless you tell us otherwise. Prices exclude taxes.",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&q=80",
+          "alt": "The bright industrial dining room"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?w=1200&q=80",
+          "alt": "Tables by the open kitchen"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1532634922-8fe0b757fb13?w=1200&q=80",
+          "alt": "Friends sharing pizza and beer"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600891964092-4316c288032e?w=1200&q=80",
+          "alt": "Steak and fries on a wooden board"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=1200&q=80",
+          "alt": "A grilled chop with greens"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "Best ribeye in the city, no contest. The smoked old fashioned is dangerous.",
+          "author": "Vikram J.",
+          "context": "Friday dinner",
+          "rating": 5
+        },
+        {
+          "quote": "Took the whole office for a team dinner. Platters, music, great drinks. They handled 18 of us without a hitch.",
+          "author": "Sneha L.",
+          "context": "Team outing",
+          "rating": 5
+        },
+        {
+          "quote": "Even the vegetarian options are brilliant. The cauliflower steak converted my husband.",
+          "author": "Pooja A.",
+          "context": "Weekend lunch",
+          "rating": 4
+        }
+      ]
+    }
+  },
+  {
+    "slug": "the-mango-tree",
+    "businessType": "restaurant",
+    "templateVariant": "casual",
+    "business": {
+      "name": "The Mango Tree",
+      "tagline": "Big flavours, happy tables, every day",
+      "description": "A bright, family-friendly café and kitchen serving South Indian breakfasts, wood-fired pizza, Indo-Chinese favourites and proper coffee from morning till late.",
+      "heroImage": "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?w=2000&q=80"
+    },
+    "theme": {
+      "primary": "#c2410c",
+      "secondary": "#fde68a",
+      "background": "#fffbeb",
+      "text": "#1c1917",
+      "headingFont": "Poppins",
+      "bodyFont": "Inter",
+      "radius": "full"
+    },
+    "contact": {
+      "phone": "+91 83280 44556",
+      "email": "hi@themangotree.example",
+      "address": "Shop 4, KIIT Road, Patia, Bhubaneswar, Odisha 751024",
+      "whatsapp": "918328044556"
+    },
+    "openingHours": [
+      {
+        "day": "Every day",
+        "hours": "8:00 AM - 11:00 PM"
+      }
+    ],
+    "social": {
+      "instagram": "https://instagram.com/",
+      "facebook": "https://facebook.com/"
+    },
+    "announcement": {
+      "text": "Kids eat free on Sundays with every two main courses.",
+      "href": "#menu"
+    },
+    "seo": {
+      "title": "The Mango Tree | Family Café & Restaurant in Patia, Bhubaneswar",
+      "description": "Breakfast, pizza, Indo-Chinese and coffee all day at The Mango Tree, Patia. Family friendly, student friendly, wallet friendly.",
+      "keywords": [
+        "café Patia",
+        "family restaurant Bhubaneswar",
+        "breakfast",
+        "pizza",
+        "coffee"
+      ]
+    },
+    "content": {
+      "heroEyebrow": "All-day café & kitchen · Patia",
+      "highlights": [
+        {
+          "value": "8 AM",
+          "label": "Breakfast starts early"
+        },
+        {
+          "value": "60+",
+          "label": "Dishes across four cuisines"
+        },
+        {
+          "value": "Free",
+          "label": "Wi-Fi and parking"
+        },
+        {
+          "value": "Kids",
+          "label": "Menu, high chairs and crayons"
+        }
+      ],
+      "about": {
+        "eyebrow": "Hello!",
+        "title": "A café that grew up under a mango tree",
+        "paragraphs": [
+          "We started as a four-table breakfast spot under the old mango tree on KIIT Road. Students came for the dosas and stayed for the coffee. Six years on, the tree is still here and so are most of those students.",
+          "The menu is deliberately wide: South Indian breakfasts, pizza from the oven, Indo-Chinese for late nights, and cakes baked each morning. Something for the whole table."
+        ],
+        "image": {
+          "src": "https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?w=1400&q=80",
+          "alt": "Friends sharing brunch plates"
+        }
+      },
+      "features": [
+        {
+          "title": "Open all day",
+          "description": "Breakfast from 8, dinner till 11, coffee the whole way through.",
+          "icon": "clock"
+        },
+        {
+          "title": "Something for everyone",
+          "description": "South Indian, Italian, Indo-Chinese and a dedicated kids' menu.",
+          "icon": "utensils"
+        },
+        {
+          "title": "Family friendly",
+          "description": "High chairs, a play corner and patient staff.",
+          "icon": "heart"
+        },
+        {
+          "title": "Easy to find",
+          "description": "On KIIT Road with free parking out front.",
+          "icon": "map"
+        }
+      ],
+      "menu": [
+        {
+          "id": "breakfast",
+          "name": "Breakfast (till 12)",
+          "items": [
+            {
+              "name": "Masala Dosa",
+              "description": "Crisp dosa with spiced potato, sambar and three chutneys.",
+              "price": "₹129",
+              "vegetarian": true,
+              "featured": true,
+              "tag": "Bestseller",
+              "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=1200&q=80"
+            },
+            {
+              "name": "Idli Sambar",
+              "description": "Four soft idlis with sambar and coconut chutney.",
+              "price": "₹99",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=1200&q=80"
+            },
+            {
+              "name": "Fluffy Pancakes",
+              "description": "A stack of three with maple syrup, butter and berries.",
+              "price": "₹249",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=80"
+            },
+            {
+              "name": "French Toast",
+              "description": "Brioche, cinnamon, banana and blueberries.",
+              "price": "₹229",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "pizza",
+          "name": "Pizza & burgers",
+          "items": [
+            {
+              "name": "Margherita",
+              "description": "Tomato, mozzarella and basil from the stone oven.",
+              "price": "₹299",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1506354666786-959d6d497f1a?w=1200&q=80"
+            },
+            {
+              "name": "Tandoori Paneer Pizza",
+              "description": "Paneer tikka, onion, capsicum and mint drizzle.",
+              "price": "₹349",
+              "vegetarian": true
+            },
+            {
+              "name": "Classic Chicken Burger",
+              "description": "Crumbed chicken, lettuce, tomato and garlic mayo, with fries.",
+              "price": "₹279",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1561758033-d89a9ad46330?w=1200&q=80"
+            }
+          ]
+        },
+        {
+          "id": "indo-chinese",
+          "name": "Indo-Chinese",
+          "items": [
+            {
+              "name": "Veg Hakka Noodles",
+              "description": "Wok-tossed noodles with crunchy vegetables.",
+              "price": "₹189",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=1200&q=80"
+            },
+            {
+              "name": "Chilli Chicken",
+              "description": "Crisp chicken tossed in a hot, tangy sauce with peppers.",
+              "price": "₹269",
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e?w=1200&q=80"
+            },
+            {
+              "name": "Gobi Manchurian",
+              "description": "Crisp cauliflower in a sticky garlic and soy sauce.",
+              "price": "₹199",
+              "vegetarian": true
+            },
+            {
+              "name": "Egg Fried Rice",
+              "description": "Fluffy rice with egg, spring onion and sesame.",
+              "price": "₹179"
+            }
+          ]
+        },
+        {
+          "id": "coffee",
+          "name": "Coffee & cakes",
+          "items": [
+            {
+              "name": "Cappuccino",
+              "description": "Double shot, steamed milk, a little latte art.",
+              "price": "₹149",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=1200&q=80"
+            },
+            {
+              "name": "Mango Lassi",
+              "description": "Thick yoghurt and fresh Alphonso mango, in season.",
+              "price": "₹129",
+              "vegetarian": true
+            },
+            {
+              "name": "Red Velvet Cake",
+              "description": "A generous slice with cream cheese frosting.",
+              "price": "₹189",
+              "vegetarian": true,
+              "featured": true,
+              "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=1200&q=80"
+            }
+          ]
+        }
+      ],
+      "menuNote": "Kids' portions available on most dishes. Prices include taxes.",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?w=1200&q=80",
+          "alt": "The sunny café with hanging plants"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=1200&q=80",
+          "alt": "A brunch table from above"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=1200&q=80",
+          "alt": "A group of friends at a long table"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1541014741259-de529411b96a?w=1200&q=80",
+          "alt": "Colourful bowls shared between friends"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=80",
+          "alt": "A stack of pancakes with syrup"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "Our Sunday ritual. The kids get pancakes, we get dosas and cappuccinos, and nobody argues.",
+          "author": "Ritu & Sameer D.",
+          "context": "Family regulars",
+          "rating": 5
+        },
+        {
+          "quote": "Best late-night chilli chicken near campus and the Wi-Fi actually works. Lifesaver during exams.",
+          "author": "Aditya M.",
+          "context": "KIIT student",
+          "rating": 5
+        },
+        {
+          "quote": "Big menu, fair prices, quick service. The red velvet cake is a must.",
+          "author": "Lipsa S.",
+          "context": "Birthday lunch",
+          "rating": 4
+        }
+      ]
+    }
+  },
+  {
+    "slug": "starlit-civilians",
+    "businessType": "restaurant",
+    "templateVariant": "luxury",
+    "business": {
+      "name": "Starlit Civilians",
+      "tagline": "Korean fried chicken, biryani and tandoor favourites, six floors up",
+      "description": "A family-friendly restaurant in Satya Nagar serving Indian, Chinese and Korean-style dishes, from crispy Korean chicken and mutka biryani to paneer curries and garlic naan.",
+      "heroImage": "/clients/starlit-civilians/hero-signage.webp"
+    },
+    "theme": {
+      "primary": "#c9a45c",
+      "secondary": "#17332c",
+      "background": "#0d1f1b",
+      "text": "#f3ead8",
+      "headingFont": "Playfair Display",
+      "bodyFont": "Poppins",
+      "radius": "sm"
+    },
+    "contact": {
+      "phone": "+91 90404 87979",
+      "email": "hello@starlitcivilians.example",
+      "address": "6th Floor, Plot No 5, Santosh Plaza, beside HomeTown, Satya Nagar, Bhubaneswar, Odisha 751007",
+      "whatsapp": "919040487979",
+      "mapEmbedUrl": "https://www.google.com/maps?q=Starlit+Civilians+Restaurant,+Santosh+Plaza,+Satya+Nagar,+Bhubaneswar&output=embed"
+    },
+    "openingHours": [
+      {
+        "day": "Every day",
+        "hours": "Open until 11:00 PM"
+      }
+    ],
+    "seo": {
+      "title": "Starlit Civilians | Restaurant in Satya Nagar, Bhubaneswar",
+      "description": "Korean fried chicken, biryani, paneer and tandoor starters at Starlit Civilians, 6th floor, Santosh Plaza, Satya Nagar, Bhubaneswar. Rated 4.3 from 1,300+ Google reviews.",
+      "keywords": [
+        "restaurant in Satya Nagar",
+        "Korean fried chicken Bhubaneswar",
+        "biryani Bhubaneswar",
+        "family restaurant Bhubaneswar",
+        "Starlit Civilians"
+      ],
+      "ogImage": "/clients/starlit-civilians/dishes/crispy-korean-chicken.webp"
+    },
+    "content": {
+      "heroEyebrow": "Food & drinks · Satya Nagar, Bhubaneswar",
+      "highlights": [
+        {
+          "value": "4.3 ★",
+          "label": "From 1,300+ Google reviews"
+        },
+        {
+          "value": "₹200–1,000",
+          "label": "Per person"
+        },
+        {
+          "value": "6th floor",
+          "label": "Santosh Plaza, Satya Nagar"
+        },
+        {
+          "value": "Till 11 PM",
+          "label": "Open late for dinner"
+        }
+      ],
+      "about": {
+        "eyebrow": "About us",
+        "title": "Good food, a warm room and fair prices",
+        "paragraphs": [
+          "Starlit Civilians is a family-friendly restaurant on the sixth floor of Santosh Plaza in Satya Nagar. Our menu brings together North Indian tandoor and curries, Indo-Chinese favourites and Korean-style fried chicken, so everyone at the table finds something they love.",
+          "Guests come back for our Korean fried chicken, butter garlic prawns and garlic naan, and for a relaxed dining room that suits a quick lunch, a family dinner or a celebration with friends."
+        ],
+        "image": {
+          "src": "/clients/starlit-civilians/interior-civilians-sign.webp",
+          "alt": "The dining room with the lit Civilians sign and floral armchairs"
+        }
+      },
+      "features": [
+        {
+          "title": "Three cuisines, one table",
+          "description": "North Indian, Indo-Chinese and Korean-style dishes on a single menu.",
+          "icon": "utensils"
+        },
+        {
+          "title": "Starters with a kick",
+          "description": "Look for the hot and spicy marks: Death Chicken Wings, Pepper Chilli Chicken and Thecha Chicken Tikka.",
+          "icon": "flame"
+        },
+        {
+          "title": "Made for families",
+          "description": "Comfortable seating and space for groups, birthdays and get-togethers.",
+          "icon": "users"
+        },
+        {
+          "title": "Drinks to match",
+          "description": "Mojitos, coolers and martinis to go with your meal.",
+          "icon": "wine"
+        }
+      ],
+      "menu": [
+        {
+          "id": "soups",
+          "name": "Soups",
+          "description": "Where two prices are shown: veg / non-veg.",
+          "items": [
+            {
+              "name": "Tomato Shorba",
+              "description": "Spiced tomato broth, served hot.",
+              "price": "₹159",
+              "vegetarian": true
+            },
+            {
+              "name": "Chicken Shorba",
+              "description": "Light, spiced chicken broth.",
+              "price": "₹179"
+            },
+            {
+              "name": "Hot N Sour Soup",
+              "description": "Peppery, tangy Indo-Chinese soup.",
+              "price": "₹159 / ₹179"
+            },
+            {
+              "name": "Manchow Soup",
+              "description": "Garlicky Indo-Chinese soup topped with crispy noodles.",
+              "price": "₹159 / ₹179",
+              "tag": "Popular"
+            },
+            {
+              "name": "Sweet Corn Soup",
+              "description": "Creamy sweet corn soup.",
+              "price": "₹159 / ₹179"
+            },
+            {
+              "name": "Burnt Garlic Soup",
+              "description": "Clear soup with toasted garlic.",
+              "price": "₹159 / ₹179"
+            },
+            {
+              "name": "Ramen Soup",
+              "description": "Noodles in a rich, savoury broth.",
+              "price": "₹189 / ₹229"
+            },
+            {
+              "name": "Khao Suey Soup",
+              "description": "Coconut curry broth with noodles and crunchy toppings.",
+              "price": "₹209 / ₹249"
+            }
+          ]
+        },
+        {
+          "id": "veg-starters",
+          "name": "Veg & Paneer Starters",
+          "items": [
+            {
+              "name": "Veg Manchurian",
+              "description": "Vegetable dumplings tossed in Manchurian sauce.",
+              "price": "₹199",
+              "vegetarian": true
+            },
+            {
+              "name": "Dragon Roll",
+              "description": "Crispy rolls with a spicy vegetable filling.",
+              "price": "₹219",
+              "vegetarian": true
+            },
+            {
+              "name": "Malai Broccoli",
+              "description": "Broccoli in a creamy marinade, roasted in the tandoor.",
+              "price": "₹249",
+              "vegetarian": true
+            },
+            {
+              "name": "Bharwan Tawa Tikki",
+              "description": "Stuffed tikkis crisped on the tawa.",
+              "price": "₹249",
+              "vegetarian": true
+            },
+            {
+              "name": "Yam Galouti Kebab",
+              "description": "Melt-in-the-mouth yam kebabs.",
+              "price": "₹249",
+              "vegetarian": true
+            },
+            {
+              "name": "Peri Peri Paneer Pakoda",
+              "description": "Paneer fritters with a peri peri spice kick.",
+              "price": "₹249",
+              "vegetarian": true,
+              "tag": "Popular"
+            },
+            {
+              "name": "Pepper Chilli Paneer",
+              "description": "Paneer tossed with pepper and green chilli.",
+              "price": "₹249",
+              "vegetarian": true,
+              "tag": "Hot & spicy"
+            },
+            {
+              "name": "Paneer Ghee Roast",
+              "description": "Paneer in a tangy, spicy ghee roast masala.",
+              "price": "₹249",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer Tikka",
+              "description": "Marinated paneer, chargrilled in the tandoor.",
+              "price": "₹249",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer Achari Tikka",
+              "description": "Paneer tikka in a pickle-spiced marinade.",
+              "price": "₹249",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer Singapori Steak",
+              "description": "Paneer steak in a Singapore-style sauce.",
+              "price": "₹269",
+              "vegetarian": true
+            },
+            {
+              "name": "Parda Paneer",
+              "description": "Paneer baked under a bread crust.",
+              "price": "₹289",
+              "vegetarian": true
+            },
+            {
+              "name": "Lifafa Paneer",
+              "description": "Paneer wrapped in a crisp pastry envelope.",
+              "price": "₹289",
+              "vegetarian": true
+            },
+            {
+              "name": "Zafrani Paneer Tikka",
+              "description": "Saffron-marinated paneer tikka.",
+              "price": "₹299",
+              "vegetarian": true
+            },
+            {
+              "name": "Veggie Guldasta Platter",
+              "description": "An assortment of our vegetarian starters to share.",
+              "price": "₹499",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "chicken-starters",
+          "name": "Chicken Starters",
+          "items": [
+            {
+              "name": "Crispy Korean Chicken",
+              "description": "Crispy fried chicken in a sticky, spicy Korean-style glaze with sesame and spring onion.",
+              "price": "₹299",
+              "featured": true,
+              "tag": "Guest favourite",
+              "image": "/clients/starlit-civilians/dishes/crispy-korean-chicken.webp"
+            },
+            {
+              "name": "Death Chicken Wings",
+              "description": "Our hottest wings, glazed in a fiery chilli masala.",
+              "price": "₹299",
+              "featured": true,
+              "tag": "Hot & spicy",
+              "image": "/clients/starlit-civilians/dishes/death-chicken-wings.webp"
+            },
+            {
+              "name": "Pepper Chilli Chicken",
+              "description": "Chicken tossed with cracked pepper and green chilli.",
+              "price": "₹299",
+              "tag": "Hot & spicy"
+            },
+            {
+              "name": "Chicken Ghee Roast",
+              "description": "Chicken in a tangy, spicy ghee roast masala.",
+              "price": "₹299"
+            },
+            {
+              "name": "Chicken Chap",
+              "description": "Chicken in a rich, spiced gravy.",
+              "price": "₹299"
+            },
+            {
+              "name": "Chicken Hargao",
+              "description": "Steamed chicken dumplings.",
+              "price": "₹299"
+            },
+            {
+              "name": "Chicken 65",
+              "description": "Spicy fried chicken with curry leaves.",
+              "price": "₹299"
+            },
+            {
+              "name": "Taipei Chicken",
+              "description": "Taiwanese-style crispy chicken.",
+              "price": "₹299"
+            },
+            {
+              "name": "Brazilian Chicken",
+              "description": "Chicken in a smoky, herby marinade.",
+              "price": "₹299"
+            },
+            {
+              "name": "Bhuna Chicken",
+              "description": "Chicken roasted with onions and spices.",
+              "price": "₹299"
+            },
+            {
+              "name": "Chettinad Chicken Dry",
+              "description": "Chicken tossed in peppery Chettinad masala.",
+              "price": "₹299"
+            },
+            {
+              "name": "Thecha Chicken Tikka",
+              "description": "Chicken tikka in a green chilli and garlic thecha.",
+              "price": "₹299",
+              "tag": "Hot & spicy"
+            },
+            {
+              "name": "Malai Kebab",
+              "description": "Chicken in a creamy marinade, cooked in the tandoor.",
+              "price": "₹299"
+            },
+            {
+              "name": "Badami Murgh Tikka",
+              "description": "Chicken tikka in an almond marinade.",
+              "price": "₹299"
+            },
+            {
+              "name": "Chapli Kebab",
+              "description": "Flat, spiced minced chicken kebab.",
+              "price": "₹329"
+            },
+            {
+              "name": "King Kebab",
+              "description": "A generous house-special chicken kebab.",
+              "price": "₹339"
+            },
+            {
+              "name": "Malayalee Chicken",
+              "description": "Kerala-style chicken with coconut and curry leaves.",
+              "price": "₹389"
+            },
+            {
+              "name": "Bhatti Da Murgh",
+              "description": "Smoky tandoori chicken. Half / full.",
+              "price": "₹399 / ₹759"
+            },
+            {
+              "name": "Non-veg Platter",
+              "description": "Chicken, fish, prawn and mutton starters to share.",
+              "price": "₹899"
+            }
+          ]
+        },
+        {
+          "id": "veg-mains",
+          "name": "Veg & Paneer Mains",
+          "items": [
+            {
+              "name": "Veg Kundan Masala",
+              "description": "Mixed vegetables in a rich, mildly spiced gravy.",
+              "price": "₹289",
+              "vegetarian": true,
+              "tag": "Popular"
+            },
+            {
+              "name": "Paneer Tikka Butter Masala",
+              "description": "Chargrilled paneer tikka in a buttery tomato gravy.",
+              "price": "₹299",
+              "vegetarian": true,
+              "featured": true,
+              "image": "/clients/starlit-civilians/dishes/paneer-tikka-butter-masala.webp"
+            },
+            {
+              "name": "Dal Fry",
+              "description": "Yellow lentils tempered with cumin and garlic.",
+              "price": "₹189",
+              "vegetarian": true
+            },
+            {
+              "name": "Dal Tadka",
+              "description": "Yellow lentils finished with a smoky tadka.",
+              "price": "₹199",
+              "vegetarian": true
+            },
+            {
+              "name": "Dal Makhani",
+              "description": "Black lentils slow-cooked with butter and cream.",
+              "price": "₹249",
+              "vegetarian": true
+            },
+            {
+              "name": "Veg Patiala",
+              "description": "Vegetables in a Punjabi-style gravy.",
+              "price": "₹289",
+              "vegetarian": true
+            },
+            {
+              "name": "Tandoori Veggie with Tomato Gravy",
+              "description": "Tandoor-roasted vegetables in tomato gravy.",
+              "price": "₹299",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer Andhra Style",
+              "description": "Paneer in a fiery Andhra masala.",
+              "price": "₹289",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer Tikka Lababdar",
+              "description": "Paneer tikka in a creamy onion-tomato gravy.",
+              "price": "₹289",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer Handi",
+              "description": "Paneer cooked in a handi with whole spices.",
+              "price": "₹299",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer Pasinda",
+              "description": "Stuffed paneer in a rich, nutty gravy.",
+              "price": "₹299",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer Manchurian",
+              "description": "Paneer in Manchurian sauce, semi-gravy.",
+              "price": "₹289",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "chicken-mains",
+          "name": "Chicken Mains",
+          "items": [
+            {
+              "name": "Goda Chicken",
+              "description": "House-style chicken curry.",
+              "price": "₹299"
+            },
+            {
+              "name": "Chettinad Chicken Curry",
+              "description": "Peppery South Indian chicken curry.",
+              "price": "₹299"
+            },
+            {
+              "name": "Chicken Tikka Masala",
+              "description": "Chargrilled chicken tikka in a spiced tomato gravy.",
+              "price": "₹329"
+            },
+            {
+              "name": "Chicken Changezi",
+              "description": "Chicken in a rich, creamy Mughlai gravy.",
+              "price": "₹329"
+            },
+            {
+              "name": "Chicken Patiala",
+              "description": "Punjabi-style chicken in a thick masala.",
+              "price": "₹359"
+            },
+            {
+              "name": "Chicken Angara",
+              "description": "Smoky, fiery chicken curry.",
+              "price": "₹359"
+            },
+            {
+              "name": "Chicken Champaran",
+              "description": "Bihari-style chicken slow-cooked with whole garlic and spices.",
+              "price": "₹359"
+            },
+            {
+              "name": "Chicken in Chinese Sauce",
+              "description": "Semi-gravy. Choose hot garlic, butter garlic, pepper chilli, hoisin or Manchurian sauce.",
+              "price": "₹299"
+            }
+          ]
+        },
+        {
+          "id": "biryani-specials",
+          "name": "Biryani & Specials",
+          "description": "Popular dishes from our online menu.",
+          "items": [
+            {
+              "name": "Chicken Mutka Dum Biryani",
+              "description": "Chicken biryani slow-cooked on dum in a clay pot.",
+              "price": "₹379",
+              "featured": true,
+              "tag": "Popular",
+              "image": "/clients/starlit-civilians/dishes/chicken-mutka-dum-biryani.jpg"
+            },
+            {
+              "name": "Chicken 65 Biryani",
+              "description": "Biryani layered with spicy Chicken 65.",
+              "price": "₹419",
+              "tag": "Popular"
+            },
+            {
+              "name": "Mutton Champaran",
+              "description": "Bihari-style mutton slow-cooked with whole garlic.",
+              "price": "₹529",
+              "tag": "Popular"
+            },
+            {
+              "name": "Pao Kilo Amritsari Prawn",
+              "description": "Quarter kilo of Amritsari-style fried prawns.",
+              "price": "₹489"
+            },
+            {
+              "name": "Chicken Alishan Tikka",
+              "description": "A house-special chicken tikka.",
+              "price": "₹419"
+            },
+            {
+              "name": "Cinnamon Crispy Chicken",
+              "description": "Crispy chicken with a hint of cinnamon.",
+              "price": "₹389"
+            },
+            {
+              "name": "Egg Ghotala",
+              "description": "Street-style spiced egg scramble.",
+              "price": "₹319"
+            },
+            {
+              "name": "American Corn Salt & Pepper",
+              "description": "Sweet corn tossed with salt, pepper and spring onion.",
+              "price": "₹249",
+              "vegetarian": true,
+              "tag": "Popular"
+            },
+            {
+              "name": "Litchi Ginger Martini",
+              "description": "Litchi and ginger, shaken and served chilled.",
+              "price": "₹229",
+              "tag": "Popular"
+            }
+          ]
+        },
+        {
+          "id": "sides",
+          "name": "Papad, Raita & Salad",
+          "items": [
+            {
+              "name": "Papad",
+              "description": "Roasted or fried.",
+              "price": "₹39",
+              "vegetarian": true
+            },
+            {
+              "name": "Masala Papad",
+              "description": "Topped with onion, tomato and spices.",
+              "price": "₹59",
+              "vegetarian": true
+            },
+            {
+              "name": "Mix Veg Raita",
+              "description": "Yoghurt with chopped vegetables.",
+              "price": "₹139",
+              "vegetarian": true
+            },
+            {
+              "name": "Boondi Raita",
+              "description": "Yoghurt with crisp boondi.",
+              "price": "₹139",
+              "vegetarian": true
+            },
+            {
+              "name": "Pineapple Raita",
+              "description": "Yoghurt with sweet pineapple.",
+              "price": "₹149",
+              "vegetarian": true
+            },
+            {
+              "name": "Green Salad",
+              "description": "Fresh sliced vegetables.",
+              "price": "₹129",
+              "vegetarian": true
+            },
+            {
+              "name": "Bombay Salad",
+              "description": "Veg / non-veg.",
+              "price": "₹179 / ₹219"
+            }
+          ]
+        }
+      ],
+      "menuNote": "Prices exclude taxes. Biryani & Specials prices are from our online menu and may differ in the restaurant. Please tell us about any allergies.",
+      "gallery": [
+        {
+          "src": "/clients/starlit-civilians/gallery/dining-room.jpg",
+          "alt": "The dining room with teal chairs and hanging greenery"
+        },
+        {
+          "src": "/clients/starlit-civilians/gallery/cocktail.webp",
+          "alt": "A chilled cocktail with a spiced rim and fresh mint at the bar"
+        },
+        {
+          "src": "/clients/starlit-civilians/gallery/crispy-starter.webp",
+          "alt": "A crispy glazed starter with sesame and shredded cabbage"
+        },
+        {
+          "src": "/clients/starlit-civilians/gallery/dining-room-lights.jpg",
+          "alt": "Tables under pendant lights beside the illuminated Civilians wall"
+        },
+        {
+          "src": "/clients/starlit-civilians/gallery/lunch-plate.webp",
+          "alt": "A plate of pulao, chicken curry, paneer gravy and naan"
+        },
+        {
+          "src": "/clients/starlit-civilians/gallery/lotus-mural.jpg",
+          "alt": "A painted lotus mural on the dining room wall"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "Best restaurant, best experience, best service. You must visit this restaurant.",
+          "author": "Google reviewer",
+          "context": "Google Maps review",
+          "rating": 5
+        },
+        {
+          "quote": "Above average ambience with good food. Prices were affordable with proper taste.",
+          "author": "Google reviewer",
+          "context": "Google Maps review",
+          "rating": 4
+        },
+        {
+          "quote": "Good food and ambience. Excellent behaviour from the staff. Will visit again.",
+          "author": "Google reviewer",
+          "context": "Google Maps review",
+          "rating": 5
+        }
+      ]
+    }
+  }
+]
