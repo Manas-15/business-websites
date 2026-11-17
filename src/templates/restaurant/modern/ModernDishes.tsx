@@ -35,7 +35,7 @@ export function ModernDishes({ dishes }: ModernDishesProps) {
             </div>
             <div className="p-5">
               <h3 className="font-heading text-lg font-bold">{dish.name}</h3>
-              <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{dish.description}</p>
+              {dish.description ? <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{dish.description}</p> : null}
             </div>
           </li>
         ))}

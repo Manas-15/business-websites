@@ -24,7 +24,7 @@ export function CasualMenu({ categories, note }: { categories: MenuCategory[]; n
                       {item.price}
                     </span>
                   </div>
-                  <p className="mt-3 text-sm leading-relaxed text-muted-foreground">{item.description}</p>
+                  {item.description ? <p className="mt-3 text-sm leading-relaxed text-muted-foreground">{item.description}</p> : null}
                   {item.vegetarian || item.tag ? (
                     <div className="mt-4 flex flex-wrap gap-2">
                       {item.tag ? (

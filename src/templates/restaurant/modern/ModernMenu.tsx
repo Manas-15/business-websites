@@ -49,7 +49,7 @@ export function ModernMenu({ categories, note }: ModernMenuProps) {
                         </span>
                       ) : null}
                     </p>
-                    <p className="mt-1 text-sm leading-relaxed text-muted-foreground">{item.description}</p>
+                    {item.description ? <p className="mt-1 text-sm leading-relaxed text-muted-foreground">{item.description}</p> : null}
                   </div>
                   <span className="shrink-0 rounded-full bg-secondary px-3 py-1 text-sm font-semibold text-secondary-foreground">
                     {item.price}

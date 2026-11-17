@@ -1,6 +1,7 @@
 export interface MenuItem {
   name: string;
-  description: string;
+  /** Optional: many menus list only the name and price. */
+  description?: string;
   /** Optional: leave out when the price is not known yet, and none is shown. */
   price?: string;
   vegetarian?: boolean;

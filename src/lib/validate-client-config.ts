@@ -198,7 +198,7 @@ function validateRestaurantContent(reader: FieldReader, input: unknown, path: st
       if (featured && !image) reader.issues.push(`${iPath} is featured but has no image`);
       return {
         name: reader.text(dish, "name", iPath),
-        description: reader.text(dish, "description", iPath),
+        description: reader.optionalText(dish, "description", iPath),
         price: reader.optionalText(dish, "price", iPath),
         vegetarian: reader.optionalBoolean(dish, "vegetarian", iPath),
         featured,

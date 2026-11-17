@@ -2162,97 +2162,307 @@
       ],
       "menu": [
         {
-          "id": "pizza-pasta",
-          "name": "Pizza, Pasta & Bakes",
+          "id": "soups",
+          "name": "Soups",
+          "description": "Veg / non-veg / prawn.",
           "items": [
             {
-              "name": "Blanco Special Pizza",
-              "description": "Our house pizza loaded with paneer, peppers, onion, sweet corn, olives and plenty of mozzarella.",
-              "vegetarian": true,
-              "featured": true,
-              "tag": "Guest favourite",
-              "image": "/clients/blanco-kitchen-terrace/dishes/special-pizza.webp"
+              "name": "Lemon Coriander",
+              "price": "₹159 / ₹189 / ₹219"
             },
             {
-              "name": "Chicken and Vegetable Pizza",
-              "description": "Chicken and garden vegetables on a cheesy, thin base."
+              "name": "Kaffir Lime",
+              "price": "₹159 / ₹189 / ₹219"
             },
             {
-              "name": "Lasagna",
-              "description": "Layered pasta baked with sauce and a golden cheese crust, served with garlic bread.",
-              "featured": true,
-              "image": "/clients/blanco-kitchen-terrace/dishes/lasagna.webp"
+              "name": "Burnt Garlic",
+              "price": "₹159 / ₹189 / ₹219"
             },
             {
-              "name": "Cheese Garlic Bread",
-              "description": "Toasted garlic bread topped with melted cheese and herbs.",
+              "name": "Hot N Sour Soup",
+              "price": "₹159 / ₹189 / ₹219"
+            },
+            {
+              "name": "Manchow Soup",
+              "price": "₹159 / ₹189 / ₹219"
+            },
+            {
+              "name": "Eight Treasure",
+              "price": "₹159 / ₹189 / ₹219"
+            },
+            {
+              "name": "Ramen Noodles",
+              "price": "₹159 / ₹189 / ₹219"
+            },
+            {
+              "name": "Minestrone",
+              "price": "₹159 / ₹189 / ₹219"
+            },
+            {
+              "name": "Cream of Soup",
+              "description": "Mushroom / veg / chicken.",
+              "price": "₹159 / ₹189 / ₹219"
+            }
+          ]
+        },
+        {
+          "id": "salads-chats",
+          "name": "Salads & Chats",
+          "items": [
+            {
+              "name": "Garden Green Salad",
+              "price": "₹149",
+              "vegetarian": true
+            },
+            {
+              "name": "Masala Papad",
+              "description": "Conical, 6 pcs.",
+              "price": "₹139",
+              "vegetarian": true
+            },
+            {
+              "name": "Greek Salad",
+              "description": "Veg / non-veg / prawn.",
+              "price": "₹219 / ₹249 / ₹279"
+            },
+            {
+              "name": "Caesar Salad",
+              "description": "Veg / non-veg / prawn.",
+              "price": "₹219 / ₹249 / ₹279"
+            },
+            {
+              "name": "Fresh Fruit Salad",
+              "price": "₹259",
+              "vegetarian": true
+            },
+            {
+              "name": "Waldorf Salad",
+              "price": "₹249",
+              "vegetarian": true
+            },
+            {
+              "name": "Cheese Cherry Pineapple Steak",
+              "price": "₹279",
               "vegetarian": true
             }
           ]
         },
         {
-          "id": "starters",
-          "name": "Starters",
+          "id": "veg-starters",
+          "name": "Veg Starters",
           "items": [
             {
-              "name": "Drums of Heaven",
-              "description": "Chicken lollipops tossed in a sticky, spicy Indo-Chinese glaze. Perfect with a fresh lime soda.",
-              "featured": true,
-              "tag": "Must try",
-              "image": "/clients/blanco-kitchen-terrace/dishes/drums-of-heaven.webp"
+              "name": "Choice of Chilly",
+              "description": "Baby corn / paneer / mushroom.",
+              "price": "₹279 / ₹289 / ₹289",
+              "vegetarian": true
+            },
+            {
+              "name": "Choice of Salt N Pepper",
+              "description": "Corn / mushroom / paneer.",
+              "price": "₹269 / ₹289 / ₹289",
+              "vegetarian": true
             },
             {
               "name": "Paneer Lollipop",
-              "description": "Paneer skewers in a tangy, spicy glaze.",
+              "price": "₹299",
+              "vegetarian": true,
+              "tag": "Popular"
+            },
+            {
+              "name": "Bucket of Fries",
+              "price": "₹299",
+              "vegetarian": true
+            },
+            {
+              "name": "Loaded Nachos",
+              "price": "₹299",
+              "vegetarian": true
+            },
+            {
+              "name": "Dragon Mushroom",
+              "price": "₹289",
               "vegetarian": true
             },
             {
               "name": "Jalapeno Corn Cheese Ball",
-              "description": "Crispy cheese balls with sweet corn and jalapeno.",
-              "vegetarian": true
-            },
-            {
-              "name": "Reshmi Chicken Kabab",
-              "description": "Tender chicken in a creamy marinade, cooked in the tandoor and served with mint chutney."
+              "price": "₹319",
+              "vegetarian": true,
+              "tag": "Popular"
             }
           ]
         },
         {
-          "id": "salads",
-          "name": "Salads",
+          "id": "non-veg-starters",
+          "name": "Non-veg Starters",
           "items": [
             {
-              "name": "Chicken Salad with Grated Cheese",
-              "description": "Grilled chicken, crisp greens, peppers and cherry tomatoes under a snow of grated cheese."
+              "name": "Drums of Heaven",
+              "description": "Chicken lollipops tossed in a sticky, spicy Indo-Chinese glaze. Perfect with a fresh lime soda.",
+              "price": "₹319",
+              "tag": "Must try",
+              "featured": true,
+              "image": "/clients/blanco-kitchen-terrace/dishes/drums-of-heaven.webp"
             },
             {
-              "name": "Roasted Vegetables with Parmesan Cheese",
-              "description": "Roasted peppers, corn and cherry tomatoes finished with parmesan.",
-              "vegetarian": true
+              "name": "Choice of Chilly",
+              "description": "Chicken / fish / prawn.",
+              "price": "₹319 / ₹319 / ₹419"
             },
             {
-              "name": "Bread with Salad",
-              "description": "Toasted bread with a fresh side salad.",
-              "vegetarian": true
+              "name": "Dragon Chicken",
+              "price": "₹319"
+            },
+            {
+              "name": "Chicken Lasoni Tikka",
+              "price": "₹359"
+            },
+            {
+              "name": "Chicken Reshmi Kebab",
+              "price": "₹359",
+              "tag": "Popular"
+            },
+            {
+              "name": "Tandoor Chicken (Half)",
+              "price": "₹379"
+            },
+            {
+              "name": "Ajwani Fish Tikka",
+              "price": "₹319"
+            },
+            {
+              "name": "Tandoori Pomfret (2 pcs)",
+              "price": "₹599"
+            },
+            {
+              "name": "Nimbu Dhania Fish Tikka",
+              "price": "₹319"
+            },
+            {
+              "name": "Spicy Thread Prawn",
+              "price": "₹419"
             }
           ]
         },
         {
-          "id": "indian",
-          "name": "Indian Mains",
+          "id": "snack-attack",
+          "name": "Blanco Snack Attack",
           "items": [
             {
-              "name": "Chicken Biryani with Raita",
-              "description": "Fragrant chicken biryani served with cooling raita."
-            },
-            {
-              "name": "Butter Naan and Chicken Mumtaaz",
-              "description": "A rich, creamy chicken curry with soft butter naan."
-            },
-            {
-              "name": "Blanco Special Veg",
-              "description": "Our house vegetable curry.",
+              "name": "Ghee Roast Veg Tikki",
+              "price": "₹279",
               "vegetarian": true
+            },
+            {
+              "name": "Paneer Papdi Kebab",
+              "price": "₹279",
+              "vegetarian": true
+            },
+            {
+              "name": "Giant Stuffed Mushroom",
+              "price": "₹319",
+              "vegetarian": true
+            },
+            {
+              "name": "Blanco Special Crispy Chicken",
+              "price": "₹319"
+            },
+            {
+              "name": "Sizzling Tangdi on Fire (4 pcs)",
+              "price": "₹399"
+            },
+            {
+              "name": "Lemon Curated Grilled Fish",
+              "price": "₹399"
+            },
+            {
+              "name": "Fish Finger",
+              "price": "₹319"
+            },
+            {
+              "name": "Bali Prawn",
+              "price": "₹479"
+            },
+            {
+              "name": "Tandoor Lemon Pomfret (2 pcs)",
+              "price": "₹599"
+            },
+            {
+              "name": "Tandoori Jhinga",
+              "price": "₹419"
+            }
+          ]
+        },
+        {
+          "id": "sandwiches-burger-pizza",
+          "name": "Sandwiches, Burger & Pizza",
+          "items": [
+            {
+              "name": "Blanco Special Pizza",
+              "description": "Veg / paneer / chicken / seafood. Loaded with peppers, onion, sweet corn, olives and plenty of mozzarella.",
+              "price": "₹319 / ₹349 / ₹389 / ₹419",
+              "tag": "Guest favourite",
+              "featured": true,
+              "image": "/clients/blanco-kitchen-terrace/dishes/special-pizza.webp"
+            },
+            {
+              "name": "Sandwich",
+              "description": "Veg / paneer / chicken.",
+              "price": "₹219 / ₹249 / ₹269"
+            },
+            {
+              "name": "Blanco Special Club Sandwich",
+              "description": "Veg / chicken.",
+              "price": "₹249 / ₹269"
+            },
+            {
+              "name": "Blanco House Burger",
+              "description": "Veg / chicken.",
+              "price": "₹219 / ₹249"
+            }
+          ]
+        },
+        {
+          "id": "pasta",
+          "name": "Pasta",
+          "items": [
+            {
+              "name": "Baked Lasagna",
+              "description": "Veg / non-veg. Layered pasta baked with a golden cheese crust, served with garlic bread.",
+              "price": "₹319 / ₹349",
+              "featured": true,
+              "image": "/clients/blanco-kitchen-terrace/dishes/lasagna.webp"
+            },
+            {
+              "name": "Arrabbiata / Alfredo / Pink Sauce",
+              "description": "Veg / chicken / prawn.",
+              "price": "₹249 / ₹319 / ₹339"
+            },
+            {
+              "name": "Basil Pesto",
+              "description": "Veg / chicken / prawn.",
+              "price": "₹289 / ₹329 / ₹349"
+            },
+            {
+              "name": "Aglio Olio Pasta",
+              "description": "Veg / non-veg.",
+              "price": "₹279 / ₹319"
+            }
+          ]
+        },
+        {
+          "id": "rice-noodles",
+          "name": "Rice & Noodles",
+          "items": [
+            {
+              "name": "Hakka Noodles",
+              "description": "Veg / chicken / prawn.",
+              "price": "₹249 / ₹279 / ₹299"
+            },
+            {
+              "name": "Fried Rice",
+              "description": "Veg / chicken / prawn.",
+              "price": "₹249 / ₹279 / ₹299"
             }
           ]
         },
@@ -2326,21 +2536,264 @@
           ]
         },
         {
+          "id": "indian-mains",
+          "name": "Indian Mains",
+          "items": [
+            {
+              "name": "Dal",
+              "description": "Fry / tadka / makhani / mix.",
+              "price": "₹179 / ₹199 / ₹249",
+              "vegetarian": true
+            },
+            {
+              "name": "Blanco Special Veg",
+              "price": "₹289",
+              "vegetarian": true
+            },
+            {
+              "name": "Kadhai Veg",
+              "price": "₹289",
+              "vegetarian": true
+            },
+            {
+              "name": "Mushroom Kadhai",
+              "price": "₹319",
+              "vegetarian": true
+            },
+            {
+              "name": "Choice of Paneer",
+              "description": "Palak / kadai / makhani / tikka masala.",
+              "price": "₹339",
+              "vegetarian": true
+            },
+            {
+              "name": "Chicken Mumtaz",
+              "price": "₹379"
+            },
+            {
+              "name": "Chicken Cafreal",
+              "price": "₹399"
+            },
+            {
+              "name": "Laal Maas",
+              "price": "₹449"
+            },
+            {
+              "name": "Prawns Masala",
+              "price": "₹449"
+            }
+          ]
+        },
+        {
+          "id": "rice-breads",
+          "name": "Indian Rice & Breads",
+          "items": [
+            {
+              "name": "Dum Biryani",
+              "description": "Veg / chicken / mutton / prawn.",
+              "price": "₹279 / ₹349 / ₹449 / ₹469"
+            },
+            {
+              "name": "Rice",
+              "description": "Steamed / jeera.",
+              "price": "₹119 / ₹159",
+              "vegetarian": true
+            },
+            {
+              "name": "Veg Pulao",
+              "price": "₹239",
+              "vegetarian": true
+            },
+            {
+              "name": "Tandoori Roti",
+              "description": "Plain / butter.",
+              "price": "₹59 / ₹69",
+              "vegetarian": true
+            },
+            {
+              "name": "Naan",
+              "description": "Plain / butter / garlic.",
+              "price": "₹79 / ₹89 / ₹99",
+              "vegetarian": true
+            },
+            {
+              "name": "Lachha Paratha",
+              "price": "₹89",
+              "vegetarian": true
+            },
+            {
+              "name": "Cheese Garlic Naan",
+              "price": "₹119",
+              "vegetarian": true
+            },
+            {
+              "name": "Masala Kulcha",
+              "price": "₹129",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
           "id": "desserts",
-          "name": "Desserts",
+          "name": "Happy Endings",
           "items": [
             {
               "name": "Sizzling Brownie with Ice Cream",
               "description": "A warm chocolate brownie on a sizzling plate, topped with vanilla ice cream, chocolate sauce and choco chips.",
-              "vegetarian": true,
-              "featured": true,
+              "price": "₹249",
               "tag": "Popular",
+              "featured": true,
               "image": "/clients/blanco-kitchen-terrace/dishes/sizzling-brownie.webp"
+            },
+            {
+              "name": "Choice of Ice Cream",
+              "description": "Vanilla / strawberry / butterscotch / chocolate.",
+              "price": "₹159"
+            },
+            {
+              "name": "Stuffed Gulab Jamun with Ice Cream",
+              "price": "₹249"
+            },
+            {
+              "name": "Tutti Frutti Ice Cream",
+              "price": "₹249"
+            },
+            {
+              "name": "Fruit Salad",
+              "description": "With ice cream / without ice cream.",
+              "price": "₹249 / ₹199"
+            },
+            {
+              "name": "Tiramisu",
+              "price": "₹259"
+            },
+            {
+              "name": "Cheesecake",
+              "price": "₹249"
+            }
+          ]
+        },
+        {
+          "id": "virgin-bar",
+          "name": "The Virgin Bar",
+          "items": [
+            {
+              "name": "Spicy Guava Mary",
+              "price": "₹279"
+            },
+            {
+              "name": "Kiwi Blast",
+              "price": "₹279"
+            },
+            {
+              "name": "Twist of Blanco",
+              "price": "₹279"
+            },
+            {
+              "name": "Red Bull Mojito",
+              "price": "₹319"
+            },
+            {
+              "name": "Masala Cold Drinks",
+              "price": "₹149"
+            },
+            {
+              "name": "Frozen",
+              "description": "Mango / orange / pineapple / strawberry.",
+              "price": "₹279"
+            },
+            {
+              "name": "Captain of Paradise",
+              "price": "₹279"
+            },
+            {
+              "name": "Sundowner",
+              "price": "₹279"
+            },
+            {
+              "name": "Sky Surfer",
+              "price": "₹279"
+            }
+          ]
+        },
+        {
+          "id": "shakes-frappe",
+          "name": "Shakes & Frappe",
+          "items": [
+            {
+              "name": "Brownie Shake",
+              "price": "₹279"
+            },
+            {
+              "name": "Cold Coffee",
+              "price": "₹259"
+            },
+            {
+              "name": "Kit Kat Shake",
+              "price": "₹259"
+            },
+            {
+              "name": "Frappe",
+              "description": "Caramel / hazelnut.",
+              "price": "₹259 / ₹279"
+            },
+            {
+              "name": "Oreo Shake",
+              "price": "₹259"
+            },
+            {
+              "name": "Fresh Lime Soda",
+              "price": "₹139"
+            },
+            {
+              "name": "Flavoured Lassi",
+              "description": "Sweet / mango.",
+              "price": "₹259"
+            },
+            {
+              "name": "Flavoured Milk Shakes",
+              "description": "Vanilla / strawberry / butterscotch / chocolate / black currant.",
+              "price": "₹259"
+            },
+            {
+              "name": "Seasonal Fresh Juice",
+              "description": "Pineapple / orange / grapes / watermelon / mix.",
+              "price": "₹279"
+            },
+            {
+              "name": "Masala Chaas",
+              "price": "₹149"
+            }
+          ]
+        },
+        {
+          "id": "chasers",
+          "name": "Chasers",
+          "items": [
+            {
+              "name": "Aerated Drinks",
+              "price": "₹109"
+            },
+            {
+              "name": "Can (Thums Up / Sprite)",
+              "price": "₹129"
+            },
+            {
+              "name": "Canned Juice",
+              "price": "₹119"
+            },
+            {
+              "name": "Diet Coke",
+              "price": "₹119"
+            },
+            {
+              "name": "Red Bull",
+              "price": "₹179"
             }
           ]
         }
       ],
-      "menuNote": "Every dish is prepared fresh when you order, so please allow about 30 minutes. Ask your server for prices not shown here.",
+      "menuNote": "Where a dish lists options, prices follow the same order. Every dish is prepared fresh when you order, so please allow about 30 minutes. V = vegetarian.",
       "gallery": [
         {
           "src": "/clients/blanco-kitchen-terrace/gallery/terrace-night.jpg",

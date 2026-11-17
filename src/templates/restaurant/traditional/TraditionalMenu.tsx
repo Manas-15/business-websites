@@ -25,7 +25,7 @@ export function TraditionalMenu({ categories, note }: { categories: MenuCategory
                   {item.tag ? (
                     <p className="mt-1 text-[0.65rem] font-semibold tracking-[0.2em] text-primary uppercase">{item.tag}</p>
                   ) : null}
-                  <p className="mx-auto mt-1 max-w-xl text-sm leading-relaxed text-muted-foreground">{item.description}</p>
+                  {item.description ? <p className="mx-auto mt-1 max-w-xl text-sm leading-relaxed text-muted-foreground">{item.description}</p> : null}
                 </li>
               ))}
             </ul>

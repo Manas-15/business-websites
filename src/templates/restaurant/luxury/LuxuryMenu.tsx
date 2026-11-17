@@ -14,6 +14,10 @@ function MenuLine({ item }: { item: MenuItem }) {
         <h4 className="font-heading text-lg">
           {item.name}
           {item.vegetarian ? <span className="sr-only"> (vegetarian)</span> : null}
+          {/* Without a description line, the V mark sits next to the name. */}
+          {item.vegetarian && !item.description ? (
+            <span aria-hidden="true" className="ml-2 align-middle font-sans text-xs font-medium tracking-wider text-primary uppercase">V</span>
+          ) : null}
           {item.tag ? (
             <span className="ml-2 align-middle font-sans text-[0.65rem] font-semibold tracking-[0.18em] text-primary uppercase">{item.tag}</span>
           ) : null}
@@ -25,10 +29,12 @@ function MenuLine({ item }: { item: MenuItem }) {
           </>
         ) : null}
       </div>
-      <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
-        {item.description}
-        {item.vegetarian ? <span className="ml-2 text-xs font-medium tracking-wider text-primary uppercase">V</span> : null}
-      </p>
+      {item.description ? (
+        <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
+          {item.description}
+          {item.vegetarian ? <span aria-hidden="true" className="ml-2 text-xs font-medium tracking-wider text-primary uppercase">V</span> : null}
+        </p>
+      ) : null}
     </li>
   );
 }
