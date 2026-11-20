@@ -5,7 +5,7 @@ export type BusinessType = (typeof BUSINESS_TYPES)[number];
 
 /** Design variations available for each business template. */
 export const TEMPLATE_VARIANTS = {
-  restaurant: ["luxury", "modern", "traditional", "casual"],
+  restaurant: ["luxury", "modern", "traditional", "casual", "nightlife"],
   cafe: ["minimalist", "warm", "modern", "premium"],
   gym: ["dark-premium", "modern-fitness", "minimalist"],
   salon: ["luxury", "elegant-minimal"],
@@ -13,7 +13,7 @@ export const TEMPLATE_VARIANTS = {
 
 /** Variants with a finished template. Config may only select these until more are built. */
 export const IMPLEMENTED_VARIANTS = {
-  restaurant: ["luxury", "modern", "traditional", "casual"],
+  restaurant: ["luxury", "modern", "traditional", "casual", "nightlife"],
   cafe: ["minimalist", "warm", "modern", "premium"],
   gym: ["dark-premium", "modern-fitness", "minimalist"],
   salon: ["luxury", "elegant-minimal"],
@@ -31,6 +31,7 @@ export const FONT_NAMES = [
   "Inter",
   "Poppins",
   "Lato",
+  "Bebas Neue",
 ] as const;
 export type FontName = (typeof FONT_NAMES)[number];
 

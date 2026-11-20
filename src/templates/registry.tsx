@@ -10,6 +10,7 @@ import { ElegantSalon } from "@/templates/salon/elegant-minimal/ElegantSalon";
 import { SalonLuxury } from "@/templates/salon/luxury/SalonLuxury";
 import { CasualRestaurant } from "@/templates/restaurant/casual/CasualRestaurant";
 import { LuxuryRestaurant } from "@/templates/restaurant/luxury/LuxuryRestaurant";
+import { NightlifeRestaurant } from "@/templates/restaurant/nightlife/NightlifeRestaurant";
 import { ModernRestaurant } from "@/templates/restaurant/modern/ModernRestaurant";
 import { TraditionalRestaurant } from "@/templates/restaurant/traditional/TraditionalRestaurant";
 import type { ClientConfig, ClientConfigOf, TemplateVariantMap } from "@/types/client-config";
@@ -27,6 +28,7 @@ const restaurantTemplates: Record<TemplateVariantMap["restaurant"], TemplatePage
   modern: ModernRestaurant,
   traditional: TraditionalRestaurant,
   casual: CasualRestaurant,
+  nightlife: NightlifeRestaurant,
 };
 
 const cafeTemplates: Record<TemplateVariantMap["cafe"], TemplatePage<"cafe">> = {

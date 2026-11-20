@@ -1,4 +1,5 @@
 import {
+  Bebas_Neue,
   Cormorant_Garamond,
   Inter,
   Lato,
@@ -59,6 +60,14 @@ const lato = Lato({
   preload: false,
 });
 
+const bebasNeue = Bebas_Neue({
+  subsets: ["latin"],
+  weight: "400",
+  variable: "--font-bebas-neue",
+  display: "swap",
+  preload: false,
+});
+
 const FONT_VARIABLES: Record<FontName, string> = {
   "Playfair Display": "--font-playfair-display",
   "Cormorant Garamond": "--font-cormorant-garamond",
@@ -66,6 +75,7 @@ const FONT_VARIABLES: Record<FontName, string> = {
   Inter: "--font-inter",
   Poppins: "--font-poppins",
   Lato: "--font-lato",
+  "Bebas Neue": "--font-bebas-neue",
 };
 
 /** Class names that define every registered font variable on <html>. */
@@ -76,6 +86,7 @@ export const FONT_CLASS_NAMES = [
   inter,
   poppins,
   lato,
+  bebasNeue,
 ]
   .map((font) => font.variable)
   .join(" ");

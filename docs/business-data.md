@@ -6,7 +6,7 @@ The website can be rebranded for any restaurant without touching code. Every bus
 
 1. Run `npm run dev` and open `http://localhost:3000/admin`.
 2. Click **Show on the website** on a business. The home page (`/`) now renders that business: name, colours, fonts, menu, photos, reviews, contact details and SEO tags. The choice is stored in a cookie, so it is instant and needs no rebuild.
-3. Open `/` in another tab and present it. Use the **Variant** dropdown to show the same business in another layout (luxury, modern, traditional, casual).
+3. Open `/` in another tab and present it. Use the **Variant** dropdown to show the same business in another layout (luxury, modern, traditional, casual, nightlife).
 4. To let the client open it on their phone, share the **preview link** `/s/<slug>` (or `/s/<slug>/<variant>`). These pages are prerendered for every business and marked `noindex`.
 5. If the client does not sign, click **Show on the website** on the next restaurant. Nothing else changes.
 6. When a client signs, create a new Vercel project from this same repository and set `CLIENT_SLUG=<slug>` on it. No separate repository is needed. See [deploying-to-vercel.md](deploying-to-vercel.md). (`src/data/active-business.json`, set with **Set as default** or `npm run use -- <slug>`, is still the fallback when `CLIENT_SLUG` is not set.)
@@ -29,7 +29,7 @@ A complete example is in [`examples/restaurant-business.example.json`](examples/
 {
   "slug": "kalinga-kitchen",            // lowercase, hyphens; also the folder under public/clients/
   "businessType": "restaurant",
-  "templateVariant": "traditional",     // luxury | modern | traditional | casual
+  "templateVariant": "traditional",     // luxury | modern | traditional | casual | nightlife
 
   "business": {
     "name": "Kalinga Kitchen",
@@ -45,7 +45,7 @@ A complete example is in [`examples/restaurant-business.example.json`](examples/
     "secondary": "#f1dfa8",    // tinted panels, badges
     "background": "#fbf8f1",
     "text": "#1c2430",         // must have 4.5:1 contrast against background
-    "headingFont": "Cormorant Garamond",  // Playfair Display | Cormorant Garamond | Montserrat | Inter | Poppins | Lato
+    "headingFont": "Cormorant Garamond",  // Playfair Display | Cormorant Garamond | Montserrat | Inter | Poppins | Lato | Bebas Neue
     "bodyFont": "Lato",
     "radius": "none"           // none | sm | md | lg | full
   },

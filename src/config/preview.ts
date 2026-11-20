@@ -30,6 +30,10 @@ const VARIANT_THEMES: Record<string, ThemeConfig> = {
     primary: "#c2410c", secondary: "#fde68a", background: "#fffbeb", text: "#1c1917",
     headingFont: "Poppins", bodyFont: "Inter", radius: "full",
   },
+  "restaurant/nightlife": {
+    primary: "#ff3d7f", secondary: "#1c1626", background: "#0b0910", text: "#f5f2fa",
+    headingFont: "Bebas Neue", bodyFont: "Inter", radius: "md",
+  },
   "cafe/minimalist": {
     primary: "#3b2a20", secondary: "#efe4d2", background: "#fbf7f0", text: "#2b2119",
     headingFont: "Cormorant Garamond", bodyFont: "Lato", radius: "sm",

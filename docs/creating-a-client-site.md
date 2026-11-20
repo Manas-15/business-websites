@@ -8,7 +8,7 @@ Pick the template that matches the client's business and the look they want.
 
 | `businessType` | `templateVariant` |
 |---|---|
-| `restaurant` | `luxury`, `modern`, `traditional` or `casual` |
+| `restaurant` | `luxury`, `modern`, `traditional`, `casual` or `nightlife` (dark theme with a bright primary colour) |
 | `cafe` | `minimalist`, `warm`, `modern` or `premium` |
 | `gym` | `dark-premium`, `modern-fitness` or `minimalist` |
 | `salon` | `luxury` or `elegant-minimal` |
@@ -55,7 +55,7 @@ Colour rules are checked at build time. The body text must reach a contrast rati
 
 ### Supported fonts
 
-Playfair Display, Cormorant Garamond, Montserrat, Inter, Poppins, Lato.
+Playfair Display, Cormorant Garamond, Montserrat, Inter, Poppins, Lato, Bebas Neue (condensed display, headings only).
 
 ### Dark themes
 

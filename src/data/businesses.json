@@ -2997,5 +2997,1234 @@
         }
       ]
     }
+  },
+  {
+    "slug": "high-me-up-club-sky-lounge",
+    "businessType": "restaurant",
+    "templateVariant": "nightlife",
+    "business": {
+      "name": "High Me Up",
+      "tagline": "Rooftop nights above Nayapalli",
+      "description": "An open-air sky lounge and a neon-lit club under one roof: DJ nights, live music, a full bar with beer towers, and tandoori, North Indian and Continental plates to share.",
+      "heroImage": "/clients/high-me-up-club-sky-lounge/hero-neon-lounge.webp"
+    },
+    "theme": {
+      "primary": "#ff3d7f",
+      "secondary": "#1c1626",
+      "background": "#0b0910",
+      "text": "#f5f2fa",
+      "headingFont": "Bebas Neue",
+      "bodyFont": "Inter",
+      "radius": "md"
+    },
+    "contact": {
+      "phone": "+91 00000 00000",
+      "email": "hello@highmeup.example",
+      "address": "N 5/537, Indradhanu Market Rd, Block N5, IRC Village, Nayapalli, Bhubaneswar, Odisha",
+      "mapEmbedUrl": "https://www.google.com/maps?q=High+Me+Up+Club+%26+Sky+Lounge,+IRC+Village,+Nayapalli,+Bhubaneswar&output=embed"
+    },
+    "openingHours": [
+      {
+        "day": "Open every day",
+        "hours": "12:30 PM – 11:00 PM"
+      }
+    ],
+    "announcement": {
+      "text": "Birthdays and private parties: ask us about a party setup.",
+      "href": "#reservations"
+    },
+    "seo": {
+      "title": "High Me Up – Club & Sky Lounge | Rooftop Bar in Nayapalli, Bhubaneswar",
+      "description": "Rooftop sky lounge and club in IRC Village, Nayapalli, Bhubaneswar. DJ nights, live music, a full bar, beer buckets and towers, tandoori kebabs and North Indian food. Open daily 12:30 PM to 11 PM.",
+      "keywords": [
+        "rooftop bar Bhubaneswar",
+        "sky lounge Bhubaneswar",
+        "club in Nayapalli",
+        "IRC Village restaurant",
+        "High Me Up Bhubaneswar"
+      ],
+      "ogImage": "/clients/high-me-up-club-sky-lounge/hero-neon-lounge.webp"
+    },
+    "content": {
+      "heroEyebrow": "Club & sky lounge · Nayapalli, Bhubaneswar",
+      "highlights": [
+        {
+          "value": "4.0 ★",
+          "label": "324 Google ratings"
+        },
+        {
+          "value": "₹1,000",
+          "label": "Approx. for two"
+        },
+        {
+          "value": "Rooftop",
+          "label": "Open-air sky lounge"
+        },
+        {
+          "value": "DJ nights",
+          "label": "Live music & dance floor"
+        }
+      ],
+      "about": {
+        "eyebrow": "About High Me Up",
+        "title": "Two moods, one address",
+        "paragraphs": [
+          "Up top, the sky lounge: an open-air rooftop under a glass canopy, with city views, greenery and long tables for golden-hour drinks. Inside, the club: a backlit bar, neon-lined ceilings and deep booths that come alive when the DJ starts.",
+          "The kitchen keeps pace with the night: tandoori kebabs and tikkas, Indo-Chinese starters, rich North Indian curries and sandwiches. Pair them with buckets and towers of beer, a long whisky list or a mocktail mixed by our bartenders."
+        ],
+        "image": {
+          "src": "/clients/high-me-up-club-sky-lounge/rooftop-terrace.webp",
+          "alt": "The rooftop sky lounge under a glass canopy, with city views"
+        }
+      },
+      "features": [
+        {
+          "title": "Rooftop sky lounge",
+          "description": "Open-air seating under a glass canopy, with views over Nayapalli.",
+          "icon": "map"
+        },
+        {
+          "title": "DJ & dance floor",
+          "description": "DJ sets and a dance floor that fills up as the night goes on.",
+          "icon": "sparkles"
+        },
+        {
+          "title": "Full bar",
+          "description": "Beer buckets and towers, whiskies, single malts, wines and signature mocktails.",
+          "icon": "wine"
+        },
+        {
+          "title": "Shisha lounge",
+          "description": "Hookah and a dedicated smoking area, away from the dining tables.",
+          "icon": "flame"
+        },
+        {
+          "title": "Live sports",
+          "description": "Big matches on screen, with live music on other nights.",
+          "icon": "users"
+        },
+        {
+          "title": "Party setups",
+          "description": "Birthdays, anniversaries and group bookings, decorated and ready when you arrive.",
+          "icon": "heart"
+        }
+      ],
+      "menu": [
+        {
+          "id": "veg-starters",
+          "name": "Veg Starters",
+          "items": [
+            {
+              "name": "Veg Platter",
+              "price": "₹679",
+              "vegetarian": true
+            },
+            {
+              "name": "American Salt & Pepper",
+              "price": "₹239",
+              "vegetarian": true
+            },
+            {
+              "name": "Crispy Chilly Baby Corn",
+              "price": "₹259",
+              "vegetarian": true
+            },
+            {
+              "name": "Boil Corn Chat",
+              "price": "₹199",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer Manchurian",
+              "price": "₹329",
+              "vegetarian": true
+            },
+            {
+              "name": "Chilly Paneer",
+              "price": "₹329",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer 65",
+              "price": "₹329",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer Pakoda",
+              "price": "₹279",
+              "vegetarian": true
+            },
+            {
+              "name": "Chilly Mushroom",
+              "price": "₹319",
+              "vegetarian": true
+            },
+            {
+              "name": "Mushroom Manchurian",
+              "price": "₹319",
+              "vegetarian": true
+            },
+            {
+              "name": "Mushroom Salt & Pepper",
+              "price": "₹309",
+              "vegetarian": true
+            },
+            {
+              "name": "Mushroom 65",
+              "price": "₹329",
+              "vegetarian": true
+            },
+            {
+              "name": "Veg Manchurian",
+              "price": "₹249",
+              "vegetarian": true
+            },
+            {
+              "name": "Stuffed Paneer",
+              "price": "₹349",
+              "vegetarian": true
+            },
+            {
+              "name": "Panfried Paneer",
+              "price": "₹329",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "non-veg-starters",
+          "name": "Non-veg Starters",
+          "items": [
+            {
+              "name": "Non Veg Platter",
+              "description": "Kebabs and tikkas with mint chutney and onion rings, made for sharing.",
+              "price": "₹799",
+              "tag": "Share it",
+              "featured": true,
+              "image": "/clients/high-me-up-club-sky-lounge/dishes/non-veg-platter.webp"
+            },
+            {
+              "name": "Egg Boiled / Poach / Omelette",
+              "price": "₹99"
+            },
+            {
+              "name": "Egg Kurkure",
+              "price": "₹249"
+            },
+            {
+              "name": "Egg Chilly",
+              "price": "₹209"
+            },
+            {
+              "name": "Egg 65",
+              "price": "₹209"
+            },
+            {
+              "name": "Chilly Chicken",
+              "price": "₹349"
+            },
+            {
+              "name": "Chicken Pakoda",
+              "price": "₹289"
+            },
+            {
+              "name": "Chicken 65",
+              "price": "₹359"
+            },
+            {
+              "name": "Chicken Salt & Pepper",
+              "price": "₹349"
+            },
+            {
+              "name": "Chicken Manchurian",
+              "price": "₹359"
+            },
+            {
+              "name": "Chicken Lollypop",
+              "price": "₹379"
+            },
+            {
+              "name": "Dragon Chicken",
+              "price": "₹349"
+            },
+            {
+              "name": "Chicken Wings (Chinese)",
+              "price": "₹349"
+            },
+            {
+              "name": "Crunchy Fried Chicken",
+              "price": "₹349"
+            },
+            {
+              "name": "Chicken Majestic",
+              "price": "₹349"
+            },
+            {
+              "name": "Bullet Chicken",
+              "price": "₹365"
+            },
+            {
+              "name": "Chicken Satay",
+              "description": "Crumb-fried chicken skewers, golden and crunchy, with a creamy dip on the side.",
+              "price": "₹349",
+              "tag": "Bar snack",
+              "featured": true,
+              "image": "/clients/high-me-up-club-sky-lounge/dishes/chicken-satay.webp"
+            },
+            {
+              "name": "Fish Chilli",
+              "price": "₹349"
+            },
+            {
+              "name": "Fish Salt & Pepper",
+              "price": "₹359"
+            },
+            {
+              "name": "Apollo Fish",
+              "price": "₹379"
+            },
+            {
+              "name": "Tawa Fish Fry (Rohi)",
+              "price": "₹349"
+            },
+            {
+              "name": "Prawn Pakoda",
+              "price": "₹389"
+            },
+            {
+              "name": "Prawn Salt & Pepper",
+              "price": "₹409"
+            },
+            {
+              "name": "Prawn Chilly",
+              "price": "₹399"
+            },
+            {
+              "name": "Prawn 65",
+              "price": "₹389"
+            },
+            {
+              "name": "Butter Garlic Prawn",
+              "price": "₹409"
+            },
+            {
+              "name": "Golden Fried Prawn",
+              "price": "₹399"
+            },
+            {
+              "name": "Chicken Pan-fried",
+              "price": "₹339"
+            },
+            {
+              "name": "Chicken Colcet",
+              "price": "₹349"
+            },
+            {
+              "name": "Chicken Such-Tay",
+              "price": "₹359"
+            },
+            {
+              "name": "Fried Kibbeh Burgul",
+              "price": "₹249"
+            }
+          ]
+        },
+        {
+          "id": "tandoori",
+          "name": "Tandoori",
+          "items": [
+            {
+              "name": "Tandoori Chicken",
+              "description": "Half / full.",
+              "price": "₹349 / ₹499"
+            },
+            {
+              "name": "Tangdi Kebab",
+              "price": "₹369"
+            },
+            {
+              "name": "Achari Kebab",
+              "price": "₹349"
+            },
+            {
+              "name": "Banjara Kebab",
+              "price": "₹379"
+            },
+            {
+              "name": "Rim Jhim Chicken Kebab",
+              "price": "₹379"
+            },
+            {
+              "name": "Chandini Kebab",
+              "price": "₹349"
+            },
+            {
+              "name": "Reshmi Kebab",
+              "price": "₹379"
+            },
+            {
+              "name": "Chicken Seekh Kebab",
+              "price": "₹349"
+            },
+            {
+              "name": "Mutton Seekh Kebab",
+              "price": "₹399"
+            },
+            {
+              "name": "Chicken Malai Tikka",
+              "price": "₹359"
+            },
+            {
+              "name": "Chicken Punjabi Tikka",
+              "price": "₹359"
+            },
+            {
+              "name": "Fish Tikka",
+              "price": "₹349"
+            },
+            {
+              "name": "Fish Punjabi Tikka",
+              "price": "₹359"
+            },
+            {
+              "name": "Ajwani Fish Tikka",
+              "price": "₹369"
+            },
+            {
+              "name": "Chicken Hariyali Tikka",
+              "price": "₹389"
+            },
+            {
+              "name": "Pahadi Chicken Tikka",
+              "price": "₹389"
+            },
+            {
+              "name": "Golden Spicy Chicken Tikka",
+              "price": "₹349"
+            },
+            {
+              "name": "Tandoori Prawn",
+              "price": "₹399"
+            },
+            {
+              "name": "Tandoori Pomfret",
+              "price": "₹599"
+            },
+            {
+              "name": "Stuffed Chicken Tangdi",
+              "price": "₹359"
+            },
+            {
+              "name": "Chicken Lazabab",
+              "price": "₹369"
+            }
+          ]
+        },
+        {
+          "id": "non-veg-mains",
+          "name": "Non-veg Mains",
+          "items": [
+            {
+              "name": "Egg Masala",
+              "price": "₹169"
+            },
+            {
+              "name": "Egg Bhurji Curry",
+              "price": "₹179"
+            },
+            {
+              "name": "Chicken Tikka Butter Masala",
+              "price": "₹359"
+            },
+            {
+              "name": "Chicken Tikka Masala",
+              "price": "₹349"
+            },
+            {
+              "name": "Chicken Tandoori Keema Masala",
+              "price": "₹369"
+            },
+            {
+              "name": "Chicken Kassa",
+              "price": "₹329"
+            },
+            {
+              "name": "Chicken Curry",
+              "price": "₹329"
+            },
+            {
+              "name": "Chicken Butter Masala",
+              "price": "₹369"
+            },
+            {
+              "name": "Chicken Hyderabadi",
+              "price": "₹359"
+            },
+            {
+              "name": "Kadhai Chicken",
+              "price": "₹349"
+            },
+            {
+              "name": "Chicken Do-Piyaza",
+              "price": "₹349"
+            },
+            {
+              "name": "Chicken Mughlai",
+              "price": "₹369"
+            },
+            {
+              "name": "Chicken Tikka Lababdar",
+              "price": "₹359"
+            },
+            {
+              "name": "Chef Special Chicken",
+              "price": "₹399"
+            },
+            {
+              "name": "Mutton Curry",
+              "price": "₹449"
+            },
+            {
+              "name": "Mutton Kassa",
+              "price": "₹449"
+            },
+            {
+              "name": "Mutton Masala",
+              "price": "₹449"
+            },
+            {
+              "name": "Mutton Rogan Josh",
+              "price": "₹459"
+            },
+            {
+              "name": "Mutton Keema Masala",
+              "price": "₹459"
+            },
+            {
+              "name": "Prawn Masala",
+              "price": "₹399"
+            },
+            {
+              "name": "Prawn Malai Curry",
+              "price": "₹399"
+            },
+            {
+              "name": "Basha Fish Masala",
+              "price": "₹349"
+            },
+            {
+              "name": "Tawa Masala Pomfret",
+              "price": "₹599"
+            }
+          ]
+        },
+        {
+          "id": "sandwiches",
+          "name": "Sandwiches",
+          "items": [
+            {
+              "name": "Plain Pita Sandwich",
+              "price": "₹149",
+              "vegetarian": true
+            },
+            {
+              "name": "Corn & Cheese Sandwich",
+              "price": "₹159",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer Tikka Sandwich",
+              "price": "₹179",
+              "vegetarian": true
+            },
+            {
+              "name": "Chicken Tikka Sandwich",
+              "price": "₹189"
+            },
+            {
+              "name": "Chicken Peri Peri Sandwich",
+              "price": "₹199"
+            },
+            {
+              "name": "Chicken Mexican Sandwich",
+              "price": "₹199"
+            },
+            {
+              "name": "Veg Club Sandwich",
+              "price": "₹219",
+              "vegetarian": true
+            },
+            {
+              "name": "Non Veg Club Sandwich",
+              "price": "₹299"
+            },
+            {
+              "name": "Creamy Chicken Sandwich",
+              "price": "₹249"
+            }
+          ]
+        },
+        {
+          "id": "breads",
+          "name": "Breads",
+          "items": [
+            {
+              "name": "Plain Naan",
+              "price": "₹39",
+              "vegetarian": true
+            },
+            {
+              "name": "Butter Naan",
+              "price": "₹49",
+              "vegetarian": true
+            },
+            {
+              "name": "Garlic Naan",
+              "price": "₹59",
+              "vegetarian": true
+            },
+            {
+              "name": "Tawa Roti",
+              "price": "₹19",
+              "vegetarian": true
+            },
+            {
+              "name": "Tawa Butter Roti",
+              "price": "₹29",
+              "vegetarian": true
+            },
+            {
+              "name": "Tandoori Roti",
+              "price": "₹29",
+              "vegetarian": true
+            },
+            {
+              "name": "Tandoori Butter Roti",
+              "price": "₹39",
+              "vegetarian": true
+            },
+            {
+              "name": "Chicken Arayes",
+              "price": "₹59"
+            },
+            {
+              "name": "Chicken Arayes with Cheese",
+              "price": "₹99"
+            }
+          ]
+        },
+        {
+          "id": "rice",
+          "name": "Rice",
+          "items": [
+            {
+              "name": "Fried Rice",
+              "description": "Veg / chicken / mix.",
+              "price": "₹229 / ₹259 / ₹299"
+            },
+            {
+              "name": "Schezwan Fried Rice",
+              "description": "Veg / chicken / mix.",
+              "price": "₹229 / ₹259 / ₹299"
+            },
+            {
+              "name": "Burnt Garlic Fried Rice",
+              "description": "Veg / chicken / mix.",
+              "price": "₹229 / ₹259 / ₹299"
+            },
+            {
+              "name": "Plain Rice",
+              "price": "₹129",
+              "vegetarian": true
+            },
+            {
+              "name": "Jeera Rice",
+              "price": "₹159",
+              "vegetarian": true
+            },
+            {
+              "name": "Lemon Rice",
+              "price": "₹169",
+              "vegetarian": true
+            },
+            {
+              "name": "Kashmiri Pulao",
+              "price": "₹159",
+              "vegetarian": true
+            },
+            {
+              "name": "Paneer Pulao",
+              "price": "₹159",
+              "vegetarian": true
+            },
+            {
+              "name": "Green Peas Pulao",
+              "price": "₹109",
+              "vegetarian": true
+            },
+            {
+              "name": "Veg Pulao",
+              "price": "₹129",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "id": "mocktails",
+          "name": "Mocktails",
+          "items": [
+            {
+              "name": "High Me Up Special Mocktail",
+              "description": "The house signature, mixed by our bartender. Ask at the bar for tonight's version.",
+              "price": "₹250",
+              "tag": "House special",
+              "featured": true,
+              "image": "/clients/high-me-up-club-sky-lounge/dishes/special-mocktail.webp"
+            },
+            {
+              "name": "Mango Monster",
+              "description": "Mango crush, fresh cream and mango juice.",
+              "price": "₹250"
+            },
+            {
+              "name": "Cranberry Cooler",
+              "description": "Raspberry syrup, cranberry juice and sweet & sour mix, topped with soda.",
+              "price": "₹250"
+            },
+            {
+              "name": "Virgin Rita",
+              "description": "Kiwi, mango, orange or strawberry crush with triple sec syrup and lemon, served frozen.",
+              "price": "₹250"
+            },
+            {
+              "name": "Spice Date",
+              "description": "Guava or fresh orange, chaat masala, black salt, lemon and mint, Tabasco and Worcestershire, topped with Sprite.",
+              "price": "₹250"
+            },
+            {
+              "name": "Peppery Crush",
+              "description": "Blackcurrant crush, grape juice, black salt and white pepper.",
+              "price": "₹250"
+            },
+            {
+              "name": "Virgin Mojito",
+              "description": "Lemon, mint, sweet & sour mix and mint syrup, topped with Sprite.",
+              "price": "₹250"
+            },
+            {
+              "name": "Kobari Badam Plus Honey",
+              "price": "₹250"
+            }
+          ]
+        },
+        {
+          "id": "beer",
+          "name": "Beer",
+          "description": "500 ml / 650 ml / bucket of 4 cans / tower.",
+          "items": [
+            {
+              "name": "Beer Bucket",
+              "description": "Four ice-cold cans on ice for the table. Budweiser, Tuborg, Kingfisher, Carlsberg and more.",
+              "price": "From ₹799",
+              "tag": "Bucket deal",
+              "featured": true,
+              "image": "/clients/high-me-up-club-sky-lounge/dishes/beer-bucket.webp"
+            },
+            {
+              "name": "Budweiser Premium",
+              "price": "₹229 / ₹329 / ₹799 / ₹1,499"
+            },
+            {
+              "name": "Carlsberg Smooth",
+              "price": "₹229 / ₹329 / ₹799 / ₹1,499"
+            },
+            {
+              "name": "Carlsberg Elephant",
+              "price": "₹249 / ₹349 / ₹899 / ₹1,699"
+            },
+            {
+              "name": "Tuborg",
+              "price": "₹229 / ₹329 / ₹799 / ₹1,499"
+            },
+            {
+              "name": "Kingfisher Ultra",
+              "price": "₹229 / ₹329 / ₹799 / ₹1,499"
+            },
+            {
+              "name": "Bira Blonde",
+              "price": "₹249 / ₹329 / ₹899 / ₹1,499"
+            },
+            {
+              "name": "Heineken",
+              "price": "₹249 / ₹349 / ₹899 / ₹1,699"
+            },
+            {
+              "name": "Kingfisher Ultra Max",
+              "price": "₹249 / ₹349 / ₹899 / ₹1,699"
+            },
+            {
+              "name": "Budweiser Magnum",
+              "price": "₹249 / ₹349 / ₹899 / ₹1,699"
+            },
+            {
+              "name": "Bira Boom",
+              "price": "₹249 / ₹349 / ₹899 / ₹1,699"
+            },
+            {
+              "name": "Corona",
+              "description": "330 ml / bucket of 5.",
+              "price": "₹229 / ₹999"
+            },
+            {
+              "name": "Hoegaarden",
+              "description": "330 ml / bucket of 5.",
+              "price": "₹229 / ₹999"
+            },
+            {
+              "name": "Breezer (choice of flavour)",
+              "description": "330 ml.",
+              "price": "₹189"
+            },
+            {
+              "name": "Bacardi Plus",
+              "description": "330 ml.",
+              "price": "₹199"
+            }
+          ]
+        },
+        {
+          "id": "wine",
+          "name": "Wine & Champagne",
+          "items": [
+            {
+              "name": "Jacob's Creek",
+              "description": "Glass / bottle.",
+              "price": "₹499 / ₹2,399"
+            },
+            {
+              "name": "Sula Red",
+              "description": "Glass / bottle.",
+              "price": "₹399 / ₹1,999"
+            },
+            {
+              "name": "Sula White",
+              "description": "Glass / bottle.",
+              "price": "₹349 / ₹1,699"
+            },
+            {
+              "name": "Sula Brut",
+              "description": "Bottle.",
+              "price": "₹2,999"
+            },
+            {
+              "name": "Jacob's Creek Pinot Noir (sparkling)",
+              "description": "Bottle.",
+              "price": "₹3,999"
+            }
+          ]
+        },
+        {
+          "id": "whisky",
+          "name": "Whisky",
+          "description": "30 ml / 180 ml / 750 ml.",
+          "items": [
+            {
+              "name": "Blenders Pride Classic",
+              "price": "₹99 / ₹499 / ₹1,799"
+            },
+            {
+              "name": "Rockford Classic",
+              "price": "₹99 / ₹499 / ₹1,799"
+            },
+            {
+              "name": "Blenders Pride Reserve",
+              "price": "₹109 / ₹549 / ₹1,999"
+            },
+            {
+              "name": "Rockford Reserve",
+              "price": "₹109 / ₹549 / ₹1,999"
+            },
+            {
+              "name": "100 Pipers Deluxe",
+              "price": "₹189 / ₹1,029 / ₹3,499"
+            },
+            {
+              "name": "Ballantine's",
+              "price": "₹189 / ₹1,029 / ₹3,499"
+            },
+            {
+              "name": "Dewar's White Label",
+              "price": "₹189 / ₹1,029 / ₹3,499"
+            },
+            {
+              "name": "Teacher's Highland",
+              "price": "₹189 / ₹1,029 / ₹3,499"
+            },
+            {
+              "name": "Black Dog Black Reserve",
+              "price": "₹189 / ₹1,029 / ₹3,499"
+            },
+            {
+              "name": "VAT 69",
+              "price": "₹189 / ₹1,029 / ₹3,499"
+            },
+            {
+              "name": "Black & White",
+              "price": "₹189 / ₹1,029 / ₹3,499"
+            },
+            {
+              "name": "William Lawson's",
+              "price": "₹189 / ₹1,029 / ₹3,499"
+            },
+            {
+              "name": "Johnnie Walker Red Label",
+              "price": "₹189 / ₹1,029 / ₹3,499"
+            },
+            {
+              "name": "100 Pipers 12 Years",
+              "price": "₹219 / ₹1,249 / ₹4,499"
+            },
+            {
+              "name": "Johnnie Walker Blonde",
+              "price": "₹219 / ₹1,249 / ₹4,499"
+            },
+            {
+              "name": "Jack Daniel's (Apple / Honey)",
+              "price": "₹219 / ₹1,249 / ₹4,499"
+            },
+            {
+              "name": "Ballantine's 12 Years",
+              "price": "₹219 / ₹1,249 / ₹4,499"
+            },
+            {
+              "name": "Black Dog Gold Reserve",
+              "price": "₹219 / ₹1,249 / ₹4,499"
+            },
+            {
+              "name": "Jameson Irish Whiskey",
+              "price": "₹219 / ₹1,249 / ₹4,499"
+            }
+          ]
+        },
+        {
+          "id": "scotch",
+          "name": "Scotch & Single Malt",
+          "description": "30 ml / 180 ml / 750 ml.",
+          "items": [
+            {
+              "name": "Johnnie Walker Gold Label",
+              "price": "₹499 / ₹2,899 / ₹11,499"
+            },
+            {
+              "name": "Johnnie Walker Double Black",
+              "price": "₹399 / ₹2,299 / ₹9,099"
+            },
+            {
+              "name": "Johnnie Walker Black Label",
+              "price": "₹299 / ₹1,699 / ₹6,699"
+            },
+            {
+              "name": "Chivas Regal 12 Years",
+              "price": "₹349 / ₹1,999 / ₹7,999"
+            },
+            {
+              "name": "Dewar's 12 Years",
+              "price": "₹299 / ₹1,699 / ₹6,699"
+            },
+            {
+              "name": "Royal Salute",
+              "price": "₹1,299 / ₹6,199 / ₹22,999"
+            },
+            {
+              "name": "The Glenlivet",
+              "price": "₹549 / ₹2,999 / ₹11,499"
+            },
+            {
+              "name": "Talisker",
+              "price": "₹499 / ₹2,799 / ₹10,999"
+            },
+            {
+              "name": "Johnnie Walker Blue Label",
+              "price": "₹1,600 / ₹8,600 / ₹29,999"
+            }
+          ]
+        },
+        {
+          "id": "vodka-gin",
+          "name": "Vodka & Gin",
+          "description": "30 ml / 180 ml / 750 ml.",
+          "items": [
+            {
+              "name": "Smirnoff Vodka",
+              "price": "₹109 / ₹549 / ₹1,999"
+            },
+            {
+              "name": "Absolut Vodka",
+              "price": "₹189 / ₹1,029 / ₹3,499"
+            },
+            {
+              "name": "Smoke Lab Vodka",
+              "price": "₹219 / ₹1,249 / ₹3,999"
+            },
+            {
+              "name": "Grey Goose",
+              "price": "₹299 / ₹1,699 / ₹4,999"
+            },
+            {
+              "name": "Bombay Sapphire",
+              "price": "₹300 / ₹1,700 / ₹8,000"
+            },
+            {
+              "name": "Blue Lagoon Gin",
+              "price": "₹250 / ₹1,400 / ₹4,500"
+            },
+            {
+              "name": "Jaisalmer Gin",
+              "price": "₹349 / ₹1,899 / ₹7,399"
+            }
+          ]
+        },
+        {
+          "id": "rum-brandy-tequila",
+          "name": "Rum, Brandy & Tequila",
+          "description": "30 ml / 180 ml / 750 ml.",
+          "items": [
+            {
+              "name": "Old Monk Gold Reserve",
+              "price": "₹89 / ₹449 / ₹1,499"
+            },
+            {
+              "name": "Old Monk Very Vatted",
+              "price": "₹89 / ₹449 / ₹1,499"
+            },
+            {
+              "name": "Old Monk Coffee",
+              "price": "₹99 / ₹499 / ₹1,799"
+            },
+            {
+              "name": "Old Monk Apple",
+              "price": "₹89 / ₹449 / ₹1,499"
+            },
+            {
+              "name": "Bacardi White Rum (all flavours)",
+              "price": "₹99 / ₹499 / ₹1,699"
+            },
+            {
+              "name": "Mansion House Brandy",
+              "price": "₹99 / ₹499 / ₹1,699"
+            },
+            {
+              "name": "Napoleon Brandy",
+              "price": "₹99 / ₹499 / ₹1,699"
+            },
+            {
+              "name": "Morpheus Brandy",
+              "price": "₹99 / ₹499 / ₹1,699"
+            },
+            {
+              "name": "Camino Tequila",
+              "price": "₹299 / ₹1,599 / ₹5,999"
+            },
+            {
+              "name": "Sauza Silver",
+              "price": "₹510 / ₹3,100 / ₹11,800"
+            },
+            {
+              "name": "Sauza Gold",
+              "price": "₹510 / ₹3,100 / ₹11,800"
+            }
+          ]
+        },
+        {
+          "id": "beverages",
+          "name": "Beverages",
+          "items": [
+            {
+              "name": "Mineral Water",
+              "price": "₹70"
+            },
+            {
+              "name": "Diet Coke",
+              "price": "₹100"
+            },
+            {
+              "name": "Thums Up / Sprite / Soda",
+              "price": "₹100"
+            },
+            {
+              "name": "Fresh Lime Soda / Water (sweet / salt)",
+              "price": "₹100"
+            },
+            {
+              "name": "Red Bull",
+              "price": "₹250"
+            },
+            {
+              "name": "Ginger Ale",
+              "price": "₹150"
+            },
+            {
+              "name": "Tonic Water",
+              "price": "₹150"
+            },
+            {
+              "name": "Canned Juices",
+              "price": "₹120"
+            }
+          ]
+        }
+      ],
+      "menuNote": "Prices in ₹. Where an item lists options, prices follow the same order. Alcohol is served only to guests of legal drinking age. Please drink responsibly.",
+      "gallery": [
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/neon-bar.webp",
+          "alt": "The backlit teal bar with green leather stools"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/blue-cocktail-at-the-bar.webp",
+          "alt": "A blue cocktail with a lime wheel on the bar counter"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/neon-ceiling-lounge.webp",
+          "alt": "Neon light lines across the club ceiling"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/high-me-up-special-kebabs.webp",
+          "alt": "High Me Up special kebabs on the grill"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/rooftop-seating.webp",
+          "alt": "Rooftop seating under the glass canopy, overlooking the city"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/mojito-and-martini.webp",
+          "alt": "A mojito and a cherry martini at the bar"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/dining-hall-arched-windows.webp",
+          "alt": "The lounge with arched windows and wooden seating"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/hero-neon-lounge.webp",
+          "alt": "Booths under purple and green neon lighting"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/arched-garden-terrace.webp",
+          "alt": "The terrace with white arches and planters"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/birthday-celebration-setup.webp",
+          "alt": "A birthday setup with balloons around a lounge booth"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/kebabs-on-a-bottle-platter.webp",
+          "alt": "Tikka served on a bottle-shaped platter"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/beer-and-chakna.webp",
+          "alt": "Kingfisher Ultra Max with a plate of chakna"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/lounge-with-arched-windows.webp",
+          "alt": "The lounge with a carved wooden ceiling and arched windows"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/dining-hall-grid-ceiling.webp",
+          "alt": "The dining hall under a grid ceiling"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/sizzling-chilli-chicken.webp",
+          "alt": "Chilli chicken on a skillet"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/tuborg-bucket-and-crispy-chicken.webp",
+          "alt": "A Tuborg bucket with crispy chicken bites"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/blue-mocktail-party.webp",
+          "alt": "A blue mocktail at a birthday table"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/grilled-chicken-with-fries.webp",
+          "alt": "Grilled chicken with fries and dip"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/biryani-with-raita.webp",
+          "alt": "Rice served with raita"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/naan-and-curry.webp",
+          "alt": "Naan and roti with curry"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/north-indian-spread.webp",
+          "alt": "A North Indian spread of curries and naan"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/blue-lagoon-mocktail.webp",
+          "alt": "A Blue Lagoon mocktail with a cocktail umbrella"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/peanut-chicken-chakna.webp",
+          "alt": "Chicken with masala peanuts"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/biryani-and-curries.webp",
+          "alt": "Pulao with curries and raita"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/budweiser-magnum.webp",
+          "alt": "A chilled Budweiser Magnum and a beer mug"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/loaded-platter.webp",
+          "alt": "A loaded platter of starters"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/green-mocktail.webp",
+          "alt": "A green mocktail with a cocktail umbrella"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/fresh-salad.webp",
+          "alt": "A fresh green salad"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/berry-shake.webp",
+          "alt": "A berry shake by the window"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/dark-fruit-mocktail.webp",
+          "alt": "A dark fruit mocktail"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/gallery/garden-salad.webp",
+          "alt": "A garden salad beside the window"
+        },
+        {
+          "src": "/clients/high-me-up-club-sky-lounge/dishes/chilly-chicken.webp",
+          "alt": "Chilly chicken on a blue plate"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "The rooftop ambience is really nice, with a lively atmosphere and a great setting to spend time with friends.",
+          "author": "Exotraveler",
+          "context": "EazyDiner review",
+          "rating": 5
+        },
+        {
+          "quote": "The food and the behaviour of the staff are outstanding.",
+          "author": "EazyDiner reviewer",
+          "context": "EazyDiner review",
+          "rating": 5
+        },
+        {
+          "quote": "A nice, ambient place in the neighbourhood of IRC Village, Nayapalli. I just loved all the dishes we had.",
+          "author": "EazyDiner reviewer",
+          "context": "EazyDiner review",
+          "rating": 5
+        }
+      ]
+    }
   }
 ]

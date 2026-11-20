@@ -8,7 +8,7 @@ Templates are available for four business types, each with its own design:
 
 | Business type | Variants | Look |
 |---|---|---|
-| Restaurant | `luxury`, `modern`, `traditional`, `casual` | Editorial serif, split with rounded cards, centred and ruled, bold and colourful |
+| Restaurant | `luxury`, `modern`, `traditional`, `casual`, `nightlife` | Editorial serif, split with rounded cards, centred and ruled, bold and colourful, dark neon for bars, lounges and clubs |
 | Café | `minimalist`, `warm`, `modern`, `premium` | Text-led, cosy tinted bands, dark menu board, fine-dining typography |
 | Gym | `dark-premium`, `modern-fitness`, `minimalist` | Heavy uppercase on dark, brand-colour block with card schedule, quiet ruled list |
 | Salon | `luxury`, `elegant-minimal` | Arch-shaped photography, text-only hero with a single-column service list |
